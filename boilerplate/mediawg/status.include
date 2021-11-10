@@ -12,31 +12,31 @@
 
 
 <p include-if="ED">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as an Editor's Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as an Editor's Draft.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="NOTE-ED">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as an Editor's Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as an Editor's Draft.
 </p>
 
 <p include-if="FPWD,WD">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as a Working Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="NOTE-FPWD,NOTE-WD">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as a Working Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft.
 </p>
 
 <p include-if="CR">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as a Candidate Recommendation.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Recommendation.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
   This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
 </p>
 
 <p include-if="WG-NOTE">
-  This document was published by the <a href="https://www.w3.org/media-wg/">Media Working Group</a> as a Working Group Note.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Group Note.
 </p>
 
 
