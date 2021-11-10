@@ -16,7 +16,10 @@
     <h2 id="profile-and-date" class="no-num no-toc no-ref">[LONGSTATUS],
       <time class="dt-updated" datetime="[ISODATE]">[DATE]</time></h2>
   </header>
-  <div data-fill-with="spec-metadata"></div>
+  <details open>
+    <summary>More details about this document</summary>
+    <div data-fill-with="spec-metadata"></div>
+  </details>
   <div data-fill-with="warning"></div>
   <p class="copyright" data-fill-with="copyright"></p>
   <hr title="Separator for header">

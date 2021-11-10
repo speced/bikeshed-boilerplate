@@ -21,7 +21,10 @@
     <summary>Specification Metadata</summary>
     <div data-fill-with="spec-metadata"></div>
   </details>
-  <div exclude-if="ED" data-fill-with="spec-metadata"></div>
+  <details open exclude-if="ED">
+    <summary>More details about this document</summary>
+    <div data-fill-with="spec-metadata"></div>
+  </details>
   <div data-fill-with="warning"></div>
   <p class='copyright' data-fill-with='copyright'></p>
   <hr title="Separator for header">
