@@ -58,37 +58,46 @@
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 </p>
 
-<p include-if="FPWD,WD,NOTE-FPWD,NOTE-WD">
+<p include-if="FPWD,WD">
   Publication as a Working Draft does not imply endorsement by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 </p>
 
 <p include-if="CR">
-  Publication as a Candidate Recommendation does not imply endorsement by
-    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+      Publication as a Candidate Recommendation does not imply endorsement by
+      <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+      A Candidate Recommendation Snapshot has received <a
+      href="https://www.w3.org/2021/Process-20210923/#dfn-wide-review">wide review</a>, is intended to
+      gather implementation experience, and has commitments from Working Group members to <a
+      href="https://www.w3.org/Consortium/Patent-Policy/#sec-Requirements">royalty-free licensing</a> for implementations.
+</p>
+
+<p include-if="NOTE-FPWD,NOTE-WD">
+  Draft Group Notes are not endorsed
+      by <abbr title="World Wide Web Consortium">W3C</abbr> nor its Members.
 </p>
 
 <p include-if="WG-NOTE">
-  Publication as a Working Group Note does not imply endorsement by
-    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+  Group Notes are not endorsed
+      by <abbr title="World Wide Web Consortium">W3C</abbr> nor its Members.
 </p>
 
 
-<p>
+<p include-if="FPWD,WD,PR,NOTE-FPWD,NOTE-WD">
   This is a draft document and may be updated, replaced or obsoleted by other documents at any time.
   <if-wrapper exclude-if="WG-NOTE">It is inappropriate to cite this document as other than work in progress.</if-wrapper>
 </p>
 
 
-<p exclude-if="WG-NOTE">
+<p exclude-if="WG-NOTE,NOTE-FPWD,NOTE-WD">
   This document was produced by a group operating under the <a id="sotd_patent" property="w3p:patentRules" href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a>.
   <if-wrapper include-if="NOTE-ED, NOTE-FPWD, NOTE-WD">The group does not expect this document to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.</if-wrapper>
   <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/media/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/Consortium/Patent-Policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
 </p>
 
 
-<p include-if="WG-NOTE">
-  This document was produced by a group operating under the <a href="https://www.w3.org/Consortium/Patent-Policy/"><abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
+<p include-if="WG-NOTE,NOTE-FPWD,NOTE-WD">
+   The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document.
 </p>
 
 
