@@ -11,10 +11,10 @@
 <div class="head">
   <p data-fill-with="logo"></p>
   <h1 id="title" class="p-name no-ref">[TITLE] [LEVEL]</h1>
-  <h2 id="subtitle" class="no-num no-toc no-ref">[LONGSTATUS],
-    <time class="dt-updated" datetime="[ISODATE]">[DATE]</time></h2>
-  <details include-if="ED">
-    <summary>Specification Metadata</summary>
+  <p id='w3c-state'><a href='[W3C-STATUS-URL]'>[LONGSTATUS]</a>,
+    <time class="dt-updated" datetime="[ISODATE]">[DATE]</time></p>
+  <details open>
+    <summary>More details about this document</summary>
     <div data-fill-with="spec-metadata"></div>
   </details>
   <div exclude-if="ED" data-fill-with="spec-metadata"></div>
