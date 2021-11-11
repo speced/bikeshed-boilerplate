@@ -18,7 +18,9 @@
   </p>
   <p>
     This document was published by the <a href="https://www.w3.org/groups/wg/webauthn">Web Authentication Working Group</a>
-    as a Working Draft. This document is intended to become a W3C Recommendation.
+    as a Working Draft using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>. This document is intended to become a W3C Recommendation.
 
     Feedback and comments on this specification are welcome. Please use
     <a href="https://github.com/w3c/webauthn/issues">Github issues</a>.

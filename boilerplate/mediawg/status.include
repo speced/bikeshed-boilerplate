@@ -21,26 +21,34 @@
 </p>
 
 <p include-if="FPWD,WD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="NOTE-FPWD,NOTE-WD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Group Draft Note using the <a
+    href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Note
+    track</a>.
 </p>
 
 <p include-if="CR">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Recommendation.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Recommendation using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
   This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
 </p>
 
 <p include-if="WG-NOTE">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Group Note.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Group Note using the <a
+    href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Note
+    track</a>.
 </p>
 
 
-<p include-if="FPWD,NOTE-FPWD">
+<p include-if="FPWD">
   This document is a <strong>First Public Working Draft</strong>.
 </p>
 

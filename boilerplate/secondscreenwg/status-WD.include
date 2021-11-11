@@ -2,7 +2,9 @@
     <em>This section describes the status of this document at the time of its publication. A list of current <abbr title="World Wide Web Consortium">W3C</abbr> publications and the latest revision of this technical report can be found in the <a href="https://www.w3.org/TR/"><abbr title="World Wide Web Consortium">W3C</abbr> technical reports index</a> at https://www.w3.org/TR/.</em>
   </p>
   <p>
-    This document was published by the <a href="https://www.w3.org/groups/wg/secondscreen">Second Screen Working Group</a> as a Working Draft. This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
+    This document was published by the <a href="https://www.w3.org/groups/wg/secondscreen">Second Screen Working Group</a> as a Working Draft using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>. This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
   </p>
   <p>
     The Second Screen Working Group maintains <a href="[REPOSITORYURL]/issues">a list of all bug reports that the group has not yet addressed</a>. This draft highlights some of the pending issues that are still to be discussed in the working group. No decision has been taken on the outcome of these issues including whether they are valid. Pull requests with proposed specification text for outstanding issues are strongly encouraged.

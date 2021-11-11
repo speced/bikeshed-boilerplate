@@ -9,7 +9,9 @@
   <p>
     This document was published by the
     <a href="https://www.w3.org/groups/wg/webplatform">Web Platform Working Group</a> as a Proposed
-    Recommendation. This document is intended to become a W3C Recommendation.
+    Recommendation using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>. This document is intended to become a W3C Recommendation.
 
     Feedback and comments on this specification are welcome. Please use
     <a href="https://github.com/w3c/html/issues">Github issues</a>.

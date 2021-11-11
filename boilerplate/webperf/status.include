@@ -12,7 +12,9 @@
 <p include-if="REC">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a [LONGSTATUS].
+	as a [LONGSTATUS] using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	A W3C Recommendation is a specification that,
 	after extensive consensus-building,
 	has received the endorsement of the W3C and its Members.
@@ -21,14 +23,18 @@
 <p include-if="PR">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a <strong>Proposed Recommendation</strong>.
+	as a <strong>Proposed Recommendation</strong> using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	Publication as a Proposed Recommendation
 	does not imply endorsement by the W3C Membership.
 
 <p include-if="CR">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a <strong>Candidate Recommendation Snapshot</strong>.
+	as a <strong>Candidate Recommendation Snapshot</strong> using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	Publication as a Candidate Recommendation
 	does not imply endorsement by the W3C Membership.
 	A Candidate Recommendation Snapshot has received
@@ -42,7 +48,9 @@
 <p include-if="CRD">
 	This document was published
 	by the <a href="hhttps://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a <strong>Candidate Recommendation Draft</strong>.
+	as a <strong>Candidate Recommendation Draft</strong> using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	Publication as a Candidate Recommendation
 	does not imply endorsement by the W3C Membership.
 	A Candidate Recommendation Draft
@@ -52,14 +60,18 @@
 <p include-if="WD">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a <strong>Working Draft</strong>.
+	as a <strong>Working Draft</strong> using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	Publication as a Working Draft
 	does not imply endorsement by the W3C Membership.
 
 <p include-if="FPWD">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
-	as a <strong>First Public Working Draft</strong>.
+	as a <strong>First Public Working Draft</strong> using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 	Publication as a Working Draft
 	does not imply endorsement by the W3C Membership.
 

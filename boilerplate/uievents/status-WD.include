@@ -11,7 +11,9 @@
   </p>
   <p>
     This document was published by the <a href="https://www.w3.org/groups/wg/webapps">Web Applications Working Group</a>
-    as a Working Draft.
+    as a Working Draft using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>.
 
     Feedback and comments on this specification are welcome. Please use
     <a href="https://github.com/w3c/[SHORTNAME]/issues">GitHub issues</a>

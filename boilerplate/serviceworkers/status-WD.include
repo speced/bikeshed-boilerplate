@@ -4,7 +4,9 @@
 
   <p>
     This document was published by the <a href="https://www.w3.org/groups/wg/service-workers">Service Workers Working Group</a>
-    as a Working Draft. This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
+    as a Working Draft using the <a
+      href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
+      track</a>. This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
   </p>
 
   <p>[STATUSTEXT]</p>
