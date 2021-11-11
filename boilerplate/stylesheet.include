@@ -364,7 +364,7 @@
 
 	h1 + h2,
 	#w3c-state {
-		/* #w3c-state is a subtitle in an H2 under the H1 */
+		/* #w3c-state is a subtitle in a P under the H1 */
 		margin-top: 0;
 	}
 	h2 + h3,

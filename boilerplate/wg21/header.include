@@ -84,8 +84,8 @@
 <div class="head">
   <p data-fill-with="logo"></p>
   <h1 id="title" class="p-name no-ref">[SHORTNAME]R[LEVEL]<br>[SPECTITLE]</h1>
-  <h2 id="w3c-state" class="no-num no-toc no-ref">[LONGSTATUS],
-    <time class="dt-updated" datetime="[ISODATE]">[ISODATE]</time></h2>
+  <p id="w3c-state" class="no-num no-toc no-ref">[LONGSTATUS],
+    <time class="dt-updated" datetime="[ISODATE]">[ISODATE]</time></p>
   <div data-fill-with="spec-metadata"></div>
   <div data-fill-with="warning"></div>
   <hr title="Separator for header">
