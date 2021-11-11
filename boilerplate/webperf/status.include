@@ -15,10 +15,10 @@
 	as a [LONGSTATUS] using the <a
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
-	A W3C Recommendation is a specification that,
-	after extensive consensus-building,
-	has received the endorsement of the W3C and its Members.
-	W3C recommends the wide deployment of this specification as a standard for the Web.
+	A W3C Recommendation is a specification that, after extensive consensus-building, is endorsed by
+      <abbr title="World Wide Web Consortium">W3C</abbr> and its Members,
+      and has commitments from Working Group members to <a
+      href="https://www.w3.org/Consortium/Patent-Policy/#sec-Requirements">royalty-free licensing</a> for implementations.
 
 <p include-if="PR">
 	This document was published
@@ -27,7 +27,7 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
 	Publication as a Proposed Recommendation
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
 <p include-if="CR">
 	This document was published
@@ -36,10 +36,12 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
 	Publication as a Candidate Recommendation
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 	A Candidate Recommendation Snapshot has received
-	<a href="https://www.w3.org/Consortium/Process/#dfn-wide-review">wide review</a>
-	and is intended to gather implementation experience.
+	<a href="https://www.w3.org/2021/Process-20211102/#dfn-wide-review">wide review</a>,
+	is intended to gather implementation experience, and has commitments from Working Group members to <a
+      href="https://www.w3.org/Consortium/Patent-Policy/#sec-Requirements">royalty-free licensing</a> for implementations.
 	This document is intended to become a W3C Recommendation;
 	it will remain a Candidate Recommendation at least until
 	<time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time>
@@ -52,7 +54,8 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
 	Publication as a Candidate Recommendation
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr>
+  and its Members.
 	A Candidate Recommendation Draft
 	integrates changes from the previous Candidate Recommendation
 	that the Working Group intends to include in a subsequent Candidate Recommendation Snapshot.
@@ -64,7 +67,8 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
 	Publication as a Working Draft
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
 <p include-if="FPWD">
 	This document was published
@@ -73,7 +77,8 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
 	Publication as a Working Draft
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
 <p include-if="WD, FPWD, CRD">
 	This is a draft document

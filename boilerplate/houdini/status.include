@@ -26,7 +26,8 @@ can be found in the <a href="https://www.w3.org/TR/">W3C technical reports index
 
 <p include-if="WD, FPWD, LCWD, CR">
 	Publication as a [LONGSTATUS]
-	does not imply endorsement by the W3C Membership.
+	does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 	This is a draft document
 	and may be updated, replaced
 	or obsoleted by other documents at any time.
