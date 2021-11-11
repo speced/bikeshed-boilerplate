@@ -49,7 +49,7 @@
 
 <p include-if="CRD">
 	This document was published
-	by the <a href="hhttps://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
+	by the <a href="https://www.w3.org/groups/wg/webperf">Web Performance Working Group</a>
 	as a <strong>Candidate Recommendation Draft</strong> using the <a
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
@@ -76,7 +76,7 @@
 	as a <strong>First Public Working Draft</strong> using the <a
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
-	Publication as a Working Draft
+	Publication as a First Public Working Draft
 	does not imply endorsement by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
