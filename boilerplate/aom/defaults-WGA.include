@@ -6,5 +6,5 @@
 	"Markup Shorthands": "css on",
 	"Warning": "Custom",
 	"Custom Warning Title": "Release Candidate",
-	"Custom Warning Text": "This document is the release candidate for the next version of this specification. It awaits formal approval by the AOM. Once approved, any further change in future versions will be documented and backwards compatible, unless interoperability concerns are uncovered."
+	"Custom Warning Text": "This document is the release candidate for the next version of this specification. It awaits formal approval by the AOM."
 }
