@@ -73,7 +73,7 @@
 </p>
 
 <p include-if="NOTE-FPWD,NOTE-WD">
-  Draft Group Notes are not endorsed
+  Group Draft Notes are not endorsed
       by <abbr title="World Wide Web Consortium">W3C</abbr> nor its Members.
 </p>
 
@@ -96,7 +96,7 @@
 </p>
 
 
-<p include-if="WG-NOTE,NOTE-FPWD,NOTE-WD">
+<p include-if="WG-NOTE,NOTE-FPWD,NOTE-WD" data-deliverer="115198">
    The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document.
 </p>
 
