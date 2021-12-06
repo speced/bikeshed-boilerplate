@@ -4,15 +4,16 @@ import os
 
 
 def main():
-	rootPath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-	createManifest(rootPath, folders=["boilerplate"])
+    rootPath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+    createManifest(rootPath, folders=["boilerplate"])
+
 
 def createManifest(path, files=None, folders=None, dryRun=False):
     """Generates a manifest file for all the data files."""
     if files is None:
-    	files = []
+        files = []
     if folders is None:
-    	folders = []
+        folders = []
     manifests = []
     for absPath, relPath in getDatafilePaths(path):
         if relPath in files:
@@ -58,6 +59,5 @@ def getDatafilePaths(basePath):
             yield filePath, os.path.relpath(filePath, basePath)
 
 
-
-if __name__ == '__main__':
-	main()
+if __name__ == "__main__":
+    main()
