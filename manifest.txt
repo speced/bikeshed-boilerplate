@@ -1,4 +1,4 @@
-2021-11-15 22:42:30.457559
+2021-12-06 23:22:05.946534
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 59f33a85aea01d6f7e522f78a7850893 boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -6,7 +6,7 @@ d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
 36bd888ea0d70381a0d8819f64556e00 boilerplate/abstract.include
 8a80554c91d9fca8acb82f023de02f11 boilerplate/defaults.include
 fcc8c3d8fae910debdea4622bd045ac6 boilerplate/copyright.include
-bf8f2e6f1e583c1756381ccc37bf4366 boilerplate/stylesheet.include
+1fc2b6b21127f393db631a99f4c666fc boilerplate/stylesheet.include
 793e5c6aa255729a7038f529db279c1c boilerplate/annotations.include
 2d047e9fbf42b426e281e368cce03989 boilerplate/bs-extensions.include
 308e15bc4b5046a85550aff4579bfccf boilerplate/warning-branch.include
@@ -23,10 +23,11 @@ e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 9e3bb604cb8fa8d2a8b2a5c031a4eea4 boilerplate/act-rules-format/status-WD.include
 5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
 9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults-FD.include
-9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults-PD.include
-9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults.include
+3aa2ee0f15d309e0b6d96da1deb2b333 boilerplate/aom/defaults-PD.include
+9af7385e35d4f089d11909f34833eb65 boilerplate/aom/defaults-WGA.include
+7578cd2e9a541ac5ee03af2363dd66ac boilerplate/aom/defaults-WGD.include
 f12e06c3653b76ac8cc10665e8b19a1e boilerplate/aom/header-FD.include
-65f5a4b9b1463c0237a16689eca31e88 boilerplate/aom/logo.include
+539b77187a1a49c99fe4289d17e1b817 boilerplate/aom/logo.include
 9590603a4c7bdacd817ea1f98f5bff56 boilerplate/audiowg/defaults.include
 6895cc076463f73a0bd12701184429ac boilerplate/audiowg/status-CR.include
 0a3f5ab251e1bebc722adfd998b71a7b boilerplate/audiowg/status-ED.include
@@ -42,7 +43,7 @@ d41d8cd98f00b204e9800998ecf8427e boilerplate/byos/abstract.include
 3fcf1f7845c6a23ca945198f4efe124d boilerplate/csswg/defaults-ED.include
 9845a6e4ec2393016fa82371d72f0cb7 boilerplate/csswg/defaults.include
 f74af464fadb87b266518e4d0c761f59 boilerplate/csswg/footer.include
-6e444092d05f8d23dd65d333b386eac1 boilerplate/csswg/status.include
+085d0638f3aaee80bff7650c14779f8f boilerplate/csswg/status.include
 f578914f4fffa76a5855f8d314e88dd8 boilerplate/csswg/warning-not-ready.include
 62f805f404f38b140865043f155cc5c4 boilerplate/csswg/warning-obsolete.include
 4130ab38cd204954cda4e09ec65e6ec4 boilerplate/dap/defaults.include
@@ -91,9 +92,9 @@ fb84fd05cf083a0c98521a0eb3776482 boilerplate/i18n/status-WD.include
 88538ca11fec7184654be63801eb7014 boilerplate/i18n/warning-not-ready.include
 9f3b170e0e25bd5733d7a885127334a0 boilerplate/i18n/warning-obsolete.include
 fe74e373a4720bf0d58911b5d027b1d2 boilerplate/immersivewebwg/defaults.include
-5b036edf46ff6fe02e56ec05c9e9e058 boilerplate/immersivewebwg/status-ED.include
-1a119f5f38beb7275a95954fc1137c1a boilerplate/immersivewebwg/status-FPWD.include
-95af0fa8f9470dadd4dc2d530c61a43f boilerplate/immersivewebwg/status-WD.include
+42381df5616209cf424f9f14d17574f8 boilerplate/immersivewebwg/status-ED.include
+f081d65417a337f4d51d91cba2d60ebc boilerplate/immersivewebwg/status-FPWD.include
+9ab0cdb4928324d23cbff27c29e67150 boilerplate/immersivewebwg/status-WD.include
 91bc173f1020f2ae558a92c0397a4791 boilerplate/mediacapture/defaults.include
 86a5023bd715b456de7f9d82f4a3b120 boilerplate/mediacapture/status-CR.include
 e07f75beac8f792542bad97668acc9d8 boilerplate/mediacapture/status-ED.include
