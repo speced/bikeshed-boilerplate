@@ -6,7 +6,7 @@
 <p>
   Feedback and comments on this specification are welcome.
   <a href="[REPOSITORYURL]/issues">GitHub Issues</a> are preferred for discussion on this specification. Alternatively, you can send comments to the Media Working Group's mailing-list, <a href="mailto:public-media-wg@w3.org">public-media-wg@w3.org</a> (<a href="https://lists.w3.org/Archives/Public/public-media-wg/">archives</a>).
-  <if-wrapper exclude-if="WG-NOTE,CR">This draft highlights some of the pending issues that are still to be discussed in the working group.
+  <if-wrapper exclude-if="NOTE,CR">This draft highlights some of the pending issues that are still to be discussed in the working group.
   No decision has been taken on the outcome of these issues including whether they are valid.</if-wrapper>
 </p>
 
@@ -18,6 +18,7 @@
 
 <p include-if="NOTE-ED">
   This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as an Editor's Draft.
+  The group does not expect this document to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="FPWD,WD">
@@ -41,7 +42,7 @@
   This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
 </p>
 
-<p include-if="WG-NOTE">
+<p include-if="NOTE">
   This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Group Note using the <a
     href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Note
     track</a>.
@@ -73,11 +74,11 @@
 </p>
 
 <p include-if="NOTE-FPWD,NOTE-WD">
-  Draft Group Notes are not endorsed
+  Group Draft Notes are not endorsed
       by <abbr title="World Wide Web Consortium">W3C</abbr> nor its Members.
 </p>
 
-<p include-if="WG-NOTE">
+<p include-if="NOTE">
   Group Notes are not endorsed
       by <abbr title="World Wide Web Consortium">W3C</abbr> nor its Members.
 </p>
@@ -85,18 +86,16 @@
 
 <p include-if="FPWD,WD,PR,NOTE-FPWD,NOTE-WD">
   This is a draft document and may be updated, replaced or obsoleted by other documents at any time.
-  <if-wrapper exclude-if="WG-NOTE">It is inappropriate to cite this document as other than work in progress.</if-wrapper>
+  It is inappropriate to cite this document as other than work in progress.
 </p>
 
 
-<p exclude-if="WG-NOTE,NOTE-FPWD,NOTE-WD">
+<p exclude-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED">
   This document was produced by a group operating under the <a id="sotd_patent" property="w3p:patentRules" href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a>.
-  <if-wrapper include-if="NOTE-ED, NOTE-FPWD, NOTE-WD">The group does not expect this document to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.</if-wrapper>
   <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/media/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/Consortium/Patent-Policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
 </p>
 
-
-<p include-if="WG-NOTE,NOTE-FPWD,NOTE-WD">
+<p include-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED" data-deliverer="115198">
    The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document.
 </p>
 
