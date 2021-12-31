@@ -78,6 +78,13 @@
 	Publication as a Working Draft
 	does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
+<p include-if="NOTE" data-deliverer="32061">
+	This document was published
+	by the <a href="https://www.w3.org/groups/wg/css">CSS Working Group</a>
+	as a Group Note
+	using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Note track</a>.
+	Group Notes are not endorsed by W3C nor its Members.
+
 <p include-if="WD, FPWD, CRD">
 	This is a draft document
 	and may be updated, replaced
@@ -95,7 +102,7 @@
 <p>This document is governed by the
 	<a id="w3c_process_revision" href="https://www.w3.org/2021/Process-20211102/">2 November 2021 W3C Process Document</a>.
 
-<p exclude-if="ED">This document was produced by a group operating under the
+<p exclude-if="ED,NOTE">This document was produced by a group operating under the
 	<a href="https://www.w3.org/Consortium/Patent-Policy-20200915/">W3C Patent Policy</a>.
 	W3C maintains a
 	<a rel="disclosure" href="https://www.w3.org/2004/01/pp-impl/32061/status">public list of any patent disclosures</a>
@@ -105,5 +112,8 @@
 	contains <a href="https://www.w3.org/Consortium/Patent-Policy-20200915/#def-essential">Essential Claim(s)</a>
 	must disclose the information in accordance with
 	<a href="https://www.w3.org/Consortium/Patent-Policy-20200915/#sec-Disclosure">section 6 of the W3C Patent Policy</a>.
+
+<p include-if="NOTE">The <a href="https://www.w3.org/Consortium/Patent-Policy-20200915/">15 September 2020 W3C Patent Policy</a>
+	does not carry any licensing requirements or commitments on this document.
 
 <p>[STATUSTEXT]
