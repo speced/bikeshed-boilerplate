@@ -1,4 +1,4 @@
-2022-03-25 21:52:21.425748
+2022-04-26 17:30:19.137101
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 59f33a85aea01d6f7e522f78a7850893 boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -55,7 +55,7 @@ b9300092cd38425f439ee75f8119cb9a boilerplate/dap/status-ED.include
 77de20ec3f5e0bfcd844455e51f42e10 boilerplate/dap/status-LCWD.include
 f4d061ca2c5ad8f59d280e9f24e6c18a boilerplate/dap/status-WD.include
 14aa9b45f6f16a8f3c1710af09162b55 boilerplate/dap/status-WG-NOTE.include
-b4e6fa253cdb9441af7fbb78107921a8 boilerplate/fxtf/bs-extensions.include
+af4f9866231fd3528673f5ce4c9d6893 boilerplate/fxtf/bs-extensions.include
 2e312d3ca9620217c0c8e16b85207603 boilerplate/fxtf/defaults-ED.include
 d5fe9d97579619421b836dc72b79f588 boilerplate/fxtf/defaults.include
 56dbd0b32792252334419ac600a19ff3 boilerplate/fxtf/footer-CR.include
@@ -70,7 +70,7 @@ b5ae2ed59194176c5087c7fe9889a916 boilerplate/fxtf/status-WD.include
 aa11e8b688a90a9023ef90f37e84769e boilerplate/geolocation/status-ED.include
 e4d0b7297f72ebbd7ee735fbd2a92cda boilerplate/gpuwg/defaults.include
 ede203e0549e68094d06c89e4a0e967c boilerplate/gpuwg/status.include
-b4e6fa253cdb9441af7fbb78107921a8 boilerplate/houdini/bs-extensions.include
+af4f9866231fd3528673f5ce4c9d6893 boilerplate/houdini/bs-extensions.include
 25d671cc840baa43a0be681499ef1ca4 boilerplate/houdini/defaults.include
 c1f1554a6db784cb3e6c8bc355f28ee0 boilerplate/houdini/footer-NOTE.include
 c0ee031da24a5626e6896cfb473568ee boilerplate/houdini/footer.include
@@ -83,7 +83,6 @@ b0aeed3978e7f4301e98e678cd6b3683 boilerplate/html/status-LCWD.include
 8e90bb882980f5820bf03089a6c1582b boilerplate/httpslocal/copyright.include
 9295c6eaa8f0b0b7bf1e36cf835a89d7 boilerplate/httpslocal/status-CG-DRAFT.include
 50659a9c4da5f329c3eb0c9f86448df6 boilerplate/httpslocal/status-CG-FINAL.include
-2d047e9fbf42b426e281e368cce03989 boilerplate/i18n/bs-extensions.include
 5b76b0eef9af8a2300673e0553f609f9 boilerplate/i18n/defaults.include
 9a5fd8fe4e8e550e4e26c406f838e254 boilerplate/i18n/status-CR.include
 852fb40222d78c3ee0a892e2b607d22a boilerplate/i18n/status-ED.include
@@ -93,7 +92,7 @@ fb84fd05cf083a0c98521a0eb3776482 boilerplate/i18n/status-WD.include
 9f3b170e0e25bd5733d7a885127334a0 boilerplate/i18n/warning-obsolete.include
 b038c35d873a518d8d53f8024b2edfa8 boilerplate/immersivewebwg/defaults.include
 da01cca0842c6afc62b387cdcf2d1393 boilerplate/immersivewebwg/status-CR.include
-11077c3abb8e3e82b04a5afe1bcced4e boilerplate/immersivewebwg/status-CRD.include
+a129e3255b008bdbf939c2588119dd06 boilerplate/immersivewebwg/status-CRD.include
 84596ff7efadf15326e008fe0e130a7e boilerplate/immersivewebwg/status-ED.include
 f081d65417a337f4d51d91cba2d60ebc boilerplate/immersivewebwg/status-FPWD.include
 9ab0cdb4928324d23cbff27c29e67150 boilerplate/immersivewebwg/status-WD.include
