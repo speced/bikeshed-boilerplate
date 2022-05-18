@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-2022-04-26 17:30:19.137101
-=======
-2022-03-23 18:40:48.542755
->>>>>>> update manifest
+2022-05-18 21:28:22.884277
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 59f33a85aea01d6f7e522f78a7850893 boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -95,11 +91,8 @@ fb84fd05cf083a0c98521a0eb3776482 boilerplate/i18n/status-WD.include
 88538ca11fec7184654be63801eb7014 boilerplate/i18n/warning-not-ready.include
 9f3b170e0e25bd5733d7a885127334a0 boilerplate/i18n/warning-obsolete.include
 b038c35d873a518d8d53f8024b2edfa8 boilerplate/immersivewebwg/defaults.include
-<<<<<<< HEAD
 da01cca0842c6afc62b387cdcf2d1393 boilerplate/immersivewebwg/status-CR.include
 a129e3255b008bdbf939c2588119dd06 boilerplate/immersivewebwg/status-CRD.include
-=======
->>>>>>> update manifest
 84596ff7efadf15326e008fe0e130a7e boilerplate/immersivewebwg/status-ED.include
 f081d65417a337f4d51d91cba2d60ebc boilerplate/immersivewebwg/status-FPWD.include
 9ab0cdb4928324d23cbff27c29e67150 boilerplate/immersivewebwg/status-WD.include
@@ -255,3 +248,6 @@ e67ce07ba5fe7a8910501114c3df6927 boilerplate/whatwg/warning-obsolete.include
 d15b6e87763b113bcc41809bb278a838 boilerplate/wicg/defaults.include
 a5b171fcd3e49cbd54c12db61177629d boilerplate/wicg/header.include
 f193a2dc8c4d09eec8ce7355a25d626e boilerplate/wicg/status.include
+f1ced890c002e15688c1b7dd81a4753a boilerplate/wintercg/copyright.include
+a5b171fcd3e49cbd54c12db61177629d boilerplate/wintercg/header.include
+cc6009c9ce34dbc44afce7bba54575cc boilerplate/wintercg/status.include
