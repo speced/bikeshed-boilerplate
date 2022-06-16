@@ -4,7 +4,8 @@
 
   <p>
     This document was published by the <a href="https://www.w3.org/groups/wg/service-workers">Service Workers Working Group</a>
-    as an Editors Draft. This document is intended to become a W3C Recommendation.
+    as an Editors Draft. This is a living document. Readers need to be aware that this specification may include unimplemented features, and details that may change.
+    This document is intended to become a W3C Recommendation.
   </p>
 
   <p>[STATUSTEXT]</p>
