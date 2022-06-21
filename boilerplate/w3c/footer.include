@@ -30,7 +30,7 @@
     with <code>class="note"</code>,
     like this:
 
-    <p class="note">Note, this is an informative note.
+    <p class="note">Note, this is an informative note.</p>
 
     <wpt open title="Tests relating to the content of this specification
                      may be documented in “Tests” blocks like this one.
