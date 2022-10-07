@@ -48,6 +48,22 @@
     track</a>.
 </p>
 
+<p include-if="DRY">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+</p>
+
+<p include-if="CRY">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Snapshot using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+</p>
+
+<p include-if="CRYD">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Draft using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+</p>
+
+<p include-if="RY">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+</p>
+
 
 <p include-if="FPWD">
   This document is a <strong>First Public Working Draft</strong>.
@@ -62,6 +78,33 @@
 <p include-if="FPWD,WD">
   Publication as a Working Draft does not imply endorsement by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+</p>
+
+<p include-if="DRY">
+  Publication as a Draft Registry does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+</p>
+
+<p include-if="CRY">
+  Publication as a Candidate Registry Snapshot does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+    A Candidate Registry Snapshot has received
+    <a href="https://www.w3.org/2021/Process-20211102/#dfn-wide-review">wide
+    review</a>.
+</p>
+
+<p include-if="DRYD">
+  Publication as a Candidate Registry Draft does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+    A Candidate Registry Draft integrates changes from the previous Candidate
+    Registry that the Working Group intends to include in a subsequent Candidate
+    Registry Snapshot.
+</p>
+
+<p include-if="RY">
+  A W3C Registry is a specification that, after extensive consensus-building, is
+  endorsed by W3C and its Members. W3C recommends the wide usage of this
+  registry.
 </p>
 
 <p include-if="CR">
@@ -84,7 +127,7 @@
 </p>
 
 
-<p include-if="FPWD,WD,PR,NOTE-FPWD,NOTE-WD">
+<p include-if="FPWD,WD,PR,NOTE-FPWD,NOTE-WD,DRY,CRYD">
   This is a draft document and may be updated, replaced or obsoleted by other documents at any time.
   It is inappropriate to cite this document as other than work in progress.
 </p>
@@ -95,7 +138,7 @@
   <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/media/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/Consortium/Patent-Policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
 </p>
 
-<p include-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED" data-deliverer="115198">
+<p include-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED,DRY,CRY,CRYD,RY" data-deliverer="115198">
    The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document.
 </p>
 
