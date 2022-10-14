@@ -49,19 +49,19 @@
 </p>
 
 <p include-if="DRY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="CRY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Snapshot using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Snapshot using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="CRYD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Draft using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Draft using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="RY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry Track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Registry using the <a href="https://www.w3.org/2021/Process-20211102/#recs-and-notes">Registry track</a>.
 </p>
 
 
