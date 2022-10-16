@@ -21,6 +21,13 @@
     This is a draft document and may be updated, replaced or obsoleted by other documents at any time. 
     It is inappropriate to cite this document as other than work in progress.
         </p>
+<p>
+  The entrance criteria for this document to enter the Proposed Recommendation stage
+  is to have a minimum of two independent and interoperable user agents that
+  implementation all the features of this specification, which will be determined by
+  passing the user agent tests defined in the test suite developed by the Working
+  Group. The Working Group will prepare an implementation report to track progress.
+</p>
         <p>
             This document was produced by a group operating under the
             <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a>.
