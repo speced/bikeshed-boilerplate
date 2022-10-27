@@ -1,4 +1,4 @@
-2022-10-07 19:10:55.408718
+2022-10-27 16:40:30.345423
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -95,8 +95,8 @@ fb84fd05cf083a0c98521a0eb3776482 boilerplate/i18n/status-WD.include
 88538ca11fec7184654be63801eb7014 boilerplate/i18n/warning-not-ready.include
 9f3b170e0e25bd5733d7a885127334a0 boilerplate/i18n/warning-obsolete.include
 b038c35d873a518d8d53f8024b2edfa8 boilerplate/immersivewebwg/defaults.include
-7ca2fd8df39b3e51c3d121ad44ecca91 boilerplate/immersivewebwg/status-CR.include
-89f5441c9d22d5a71e44bb95b4b841ca boilerplate/immersivewebwg/status-CRD.include
+f84d6e955ec15ac5b98a0c65c427fee2 boilerplate/immersivewebwg/status-CR.include
+0d1953ca3100fdd75c76104eb0bccefd boilerplate/immersivewebwg/status-CRD.include
 9039d6ed67439833a75eee3275b9f732 boilerplate/immersivewebwg/status-ED.include
 0110069fd1f45b0d14f774b4a7e914df boilerplate/immersivewebwg/status-FPWD.include
 44209b8b09270c7ed9bde455666ff2fe boilerplate/immersivewebwg/status-WD.include
@@ -106,7 +106,7 @@ e07f75beac8f792542bad97668acc9d8 boilerplate/mediacapture/status-ED.include
 c1f323786e4ec9327c626859d210c04e boilerplate/mediacapture/status-FPWD.include
 5512ed07d7498207b1b0c1836ad87a35 boilerplate/mediacapture/status-WD.include
 4b0839e35c1bbd636a170b44adbeff11 boilerplate/mediawg/defaults.include
-52a2d8edbc0e93fb2f46999808c5a845 boilerplate/mediawg/status.include
+612c39249f93cd7e6c55b0ee6119b3ba boilerplate/mediawg/status.include
 34863bf2c266566961b90f6ca6b927c3 boilerplate/ping/defaults.include
 9515919aff4672b96597543cebcc9198 boilerplate/ping/status-ED.include
 0031eebcde99a8727165aa27f48e5917 boilerplate/privacycg/copyright.include
