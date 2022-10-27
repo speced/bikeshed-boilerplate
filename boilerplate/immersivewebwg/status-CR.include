@@ -21,6 +21,13 @@
                A Candidate Recommendation Snapshot has received <a href="https://www.w3.org/2021/Process-20211102/#dfn-wide-review">wide review</a>, is intended to
           gather implementation experience, and has commitments from Working Group members to <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Requirements">royalty-free licensing</a> for implementations.
         </p>
+<p>
+  The entrance criteria for this document to enter the Proposed Recommendation stage
+  is to have a minimum of two independent and interoperable user agents that
+  implementation all the features of this specification, which will be determined by
+  passing the user agent tests defined in the test suite developed by the Working
+  Group. The Working Group will prepare an implementation report to track progress.
+</p>
         <p>
             This document was produced by a group operating under the
             <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a>.
