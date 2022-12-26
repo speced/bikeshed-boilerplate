@@ -1,4 +1,4 @@
-2022-11-07 10:21:43.389769
+2022-12-26 20:50:56.558389
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -47,14 +47,12 @@ c2052ae0db771a7c1e702608ae13c49e boilerplate/csswg/status.include
 f578914f4fffa76a5855f8d314e88dd8 boilerplate/csswg/warning-not-ready.include
 62f805f404f38b140865043f155cc5c4 boilerplate/csswg/warning-obsolete.include
 4130ab38cd204954cda4e09ec65e6ec4 boilerplate/dap/defaults.include
-c59d51e692fcebe780b3d26bcb08a9bd boilerplate/dap/header-ED.include
-3aaac970a130d00e9c90ea3d01c7f892 boilerplate/dap/status-CR.include
-0dcfca1d047b297f978c0e12c1237188 boilerplate/dap/status-CRD.include
-b9300092cd38425f439ee75f8119cb9a boilerplate/dap/status-ED.include
-38906ed2ecdadfd0751fbfa06724ed15 boilerplate/dap/status-FPWD.include
-77de20ec3f5e0bfcd844455e51f42e10 boilerplate/dap/status-LCWD.include
-f4d061ca2c5ad8f59d280e9f24e6c18a boilerplate/dap/status-WD.include
-14aa9b45f6f16a8f3c1710af09162b55 boilerplate/dap/status-WG-NOTE.include
+59bb82ad8b06a32805449fb7e48276b8 boilerplate/dap/status-CR.include
+904b2551c154f4bd8e8e6560d010c8f5 boilerplate/dap/status-CRD.include
+15d0e83c28b0b675dd95df925538dec8 boilerplate/dap/status-ED.include
+e5dd60b672967f5e7fe8460390f22654 boilerplate/dap/status-FPWD.include
+02f26d018f1ca4f174fd4320d41a54e0 boilerplate/dap/status-NOTE.include
+741ec49774ff3e0863970c68942e0e43 boilerplate/dap/status-WD.include
 42cf428f3a4a75f5e897341a49ca7dcd boilerplate/fedidcg/copyright.include
 d15b6e87763b113bcc41809bb278a838 boilerplate/fedidcg/defaults.include
 a5b171fcd3e49cbd54c12db61177629d boilerplate/fedidcg/header.include
