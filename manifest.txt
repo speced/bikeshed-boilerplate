@@ -1,4 +1,4 @@
-2022-12-26 20:50:56.558389
+2023-01-12 19:56:08.744739
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -158,7 +158,7 @@ ad04e0dfeaa074aadf1032f8170ad4db boilerplate/texttracks/status-CG-DRAFT.include
 7ee1a02147f3523b41c894856e99c18a boilerplate/texttracks/status-WD.include
 9c53c44faa08a7be0d033d2faef897c6 boilerplate/uievents/header.include
 9984710f2c95a6a5686804bfaaea0f73 boilerplate/uievents/status-WD.include
-adf1c335b66f843a8dda2ecf72235d82 boilerplate/w3c/copyright.include
+5c50ef54176be352e6a4d5f2985d3f43 boilerplate/w3c/copyright.include
 c1f1554a6db784cb3e6c8bc355f28ee0 boilerplate/w3c/footer-NOTE.include
 6112a23cd7fe83164b28b1dd815342f7 boilerplate/w3c/footer.include
 c52de8ff3507e340d87fc4d4fb93b837 boilerplate/w3c/header.include
