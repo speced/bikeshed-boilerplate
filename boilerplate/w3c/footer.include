@@ -36,22 +36,6 @@
                      may be documented in “Tests” blocks like this one.
                      Any such block is non-normative."></wpt>
 
-<h3 id="w3c-conformant-algorithms" class="no-ref no-num">Conformant Algorithms</h3>
-
-    <p>Requirements phrased in the imperative as part of algorithms
-    (such as "strip any leading space characters"
-    or "return false and abort these steps")
-    are to be interpreted with the meaning of the key word
-    ("must", "should", "may", etc)
-    used in introducing the algorithm.
-
-    <p>Conformance requirements phrased as algorithms or specific steps
-    can be implemented in any manner,
-    so long as the end result is equivalent.
-    In particular, the algorithms defined in this specification
-    are intended to be easy to understand
-    and are not intended to be performant.
-    Implementers are encouraged to optimize.
 </div>
 </body>
 <script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
