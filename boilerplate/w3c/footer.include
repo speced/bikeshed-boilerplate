@@ -53,7 +53,8 @@
     are intended to be easy to understand
     and are not intended to be performant.
     Implementers are encouraged to optimize.
-</div>
+</section>
+
 </div>
 </body>
 <script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
