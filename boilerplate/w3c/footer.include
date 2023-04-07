@@ -36,7 +36,8 @@
                      may be documented in “Tests” blocks like this one.
                      Any such block is non-normative."></wpt>
 
-<div include-if="w3c/ED, w3c/WD, w3c/FPWD, w3c/LCWD, w3c/CR, w3c/CRD, w3c/PR, w3c/REC, w3c/PER, text macro: ALGO-CONFORMANCE">
+<section include-if="w3c/ED, w3c/WD, w3c/FPWD, w3c/LCWD, w3c/CR, w3c/CRD, w3c/PR, w3c/REC, w3c/PER, text macro: ALGO-CONFORMANCE">
+
 <h3 id="w3c-conformant-algorithms" class="no-ref no-num">Conformant Algorithms</h3>
 
     <p>Requirements phrased in the imperative as part of algorithms
