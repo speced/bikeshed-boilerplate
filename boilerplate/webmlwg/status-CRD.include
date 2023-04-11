@@ -5,7 +5,7 @@
       href='https://www.w3.org/2021/Process-20211102/#recs-and-notes'>Recommendation
       track</a>.
       <p>Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Draft integrates changes from the previous Candidate Recommendation that the Working Group intends to include in a subsequent Candidate Recommendation Snapshot.</p>
-
+      <p>This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.</p>
         <p>
             The Web Machine Learning Working Group maintains <a href="[REPOSITORYURL]/issues">a list of all bug
         reports that the group has not yet addressed</a>.
