@@ -1,4 +1,4 @@
-2023-04-13 23:06:27.475943
+2023-04-19 23:46:05.458886
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -241,11 +241,11 @@ ef739702003f859bec6aa681cbc527ae boilerplate/wg21/header.include
 e1653db363926bcc088e493d844a14b6 boilerplate/whatwg/computed-metadata-RD.include
 e1b29af966c3959874d15a14af2ea78b boilerplate/whatwg/computed-metadata.include
 061dbdd35fec100ad5bf6685fe0a7e48 boilerplate/whatwg/defaults-RD.include
-315305d18a1cec4e9c7701ba3e482cbf boilerplate/whatwg/defaults.include
+8f2894d5ff41fa487e66978fed99aa42 boilerplate/whatwg/defaults.include
 91e2c82b59ff0dc7d3b10a72ed5d3b66 boilerplate/whatwg/footer-RD.include
 2fcfb92564e49aadf28892936a581e39 boilerplate/whatwg/footer.include
 41729e56020cc306e1224394e862221c boilerplate/whatwg/header-RD.include
-cf6aef5bc32d7928bc04872f5de39545 boilerplate/whatwg/header.include
+73398102776ec85912c441bf188859d7 boilerplate/whatwg/header.include
 190be64861cd8cbde6cfe1dda6867034 boilerplate/whatwg/warning-custom.include
 e67ce07ba5fe7a8910501114c3df6927 boilerplate/whatwg/warning-obsolete.include
 38cce5e8b93b42771bd8d2d1257613d4 boilerplate/wicg/copyright.include
