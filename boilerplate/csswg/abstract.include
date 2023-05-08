@@ -9,7 +9,10 @@ on screen, on paper, etc.
 const githubPrefix = "https://w3c.github.io/csswg-drafts/";
 if(location.href.slice(0, githubPrefix.length) == githubPrefix) {
 	const suffix = location.href.slice(githubPrefix.length);
-	const draftUrl = "https://drafts.csswg.org/" + suffix;
+	let draftUrl = "https://drafts.csswg.org/" + suffix;
+	if(location.hash) {
+		draftUrl += "#"+location.hash;
+	}
 	window.location.replace(draftUrl);
 }
 </script>
