@@ -1,4 +1,4 @@
-2023-07-18 18:46:10.550758
+2023-07-28 19:51:31.089827
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -229,10 +229,10 @@ c754c6bac391b54729f6ec100805ac29 boilerplate/webtransport/status-FPWD.include
 2e008e5126ea30582a65a86196393767 boilerplate/wecg/copyright.include
 d15b6e87763b113bcc41809bb278a838 boilerplate/wecg/defaults.include
 c0ee5cf7142bd135851f8d610ebe63d6 boilerplate/wecg/status.include
-5e3638a46a9807c7e887d4e4588c880c boilerplate/wg14/defaults.include
+989bb8a7d0a53acff58b3356be19098e boilerplate/wg14/defaults.include
 bbf199b0531ce6df48fc201c324a4cde boilerplate/wg14/footer.include
 c602200eb4e00b4dac5c75f2bd349973 boilerplate/wg14/header.include
-78401226c31f53a228628fae34f82a78 boilerplate/wg21/defaults.include
+ecdcb620a26e962c14a338239c1c1b4b boilerplate/wg21/defaults.include
 bbf199b0531ce6df48fc201c324a4cde boilerplate/wg21/footer.include
 ef739702003f859bec6aa681cbc527ae boilerplate/wg21/header.include
 9fcacc6882914c0c0bee9445f7155f3d boilerplate/whatwg/computed-metadata-LS-COMMIT.include
