@@ -1,4 +1,4 @@
-2023-07-28 19:51:31.089827
+2023-08-17 21:56:01.460896
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -105,6 +105,8 @@ c21af2068b55405673714815c085e9bf boilerplate/mediacapture/status-CR.include
 abb481556c48444a31b47c4398574419 boilerplate/mediacapture/status-WD.include
 4b0839e35c1bbd636a170b44adbeff11 boilerplate/mediawg/defaults.include
 d688185c1c2502fe61efb7e180655a2c boilerplate/mediawg/status.include
+23abbc33cbaeb87c138140d1a26d3208 boilerplate/patcg-id/copyright.include
+9f3b0455ff60beea0a59c94f7f51463b boilerplate/patcg-id/status.include
 34863bf2c266566961b90f6ca6b927c3 boilerplate/ping/defaults.include
 9515919aff4672b96597543cebcc9198 boilerplate/ping/status-ED.include
 0031eebcde99a8727165aa27f48e5917 boilerplate/privacycg/copyright.include
