@@ -2,7 +2,7 @@
   "Title": "[SPECTITLE] Standard",
   "Logo": "https://resources.whatwg.org/logo-[SHORTNAME].svg",
   "!Participate": [
-    "<a href=https://github.com/whatwg/[SHORTNAME]>GitHub whatwg/[SHORTNAME]</a> (<a href=https://github.com/whatwg/[SHORTNAME]/issues/new>new issue</a>, <a href=https://github.com/whatwg/[SHORTNAME]/issues>open issues</a>)",
+    "<a href=https://github.com/whatwg/[SHORTNAME]>GitHub whatwg/[SHORTNAME]</a> (<a href=https://github.com/whatwg/[SHORTNAME]/issues/new/choose>new issue</a>, <a href=https://github.com/whatwg/[SHORTNAME]/issues>open issues</a>)",
     "<a href=https://whatwg.org/chat>Chat on Matrix</a>"
   ],
   "!Commits": [
