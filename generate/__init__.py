@@ -1,14 +1,30 @@
 import datetime
 import hashlib
+from pathlib import Path
+import subprocess
 import os
 
 
 def main():
-    rootPath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-    createManifest(rootPath, folders=["boilerplate"])
+    rootPath = Path(__file__).resolve().parent.parent
+    oldManifest = open(rootPath / "manifest.txt", "r", encoding="utf-8").read()
+    newManifest = createManifest(rootPath, folders=["boilerplate"])
+    if(manifestsDiffer(oldManifest, newManifest)):
+        with open(rootPath / "manifest.txt", "w", encoding="utf-8") as fh:
+            fh.write(newManifest)
+        subprocess.check_call(f"git commit -m 'Update manifest' '{rootPath/'boilerplate'}' '{rootPath/'manifest.txt'}'")
+        subprocess.check_call()
+    else:
+        print("Manifest didn't change; exiting.")
 
 
-def createManifest(path, files=None, folders=None, dryRun=False):
+def manifestsDiffer(old, new):
+    old = old.split("\n", maxsplit=1)[1]
+    new = new.split("\n", maxsplit=1)[1]
+    return old != new
+
+
+def createManifest(path, files=None, folders=None):
     """Generates a manifest file for all the data files."""
     if files is None:
         files = []
@@ -28,10 +44,6 @@ def createManifest(path, files=None, folders=None, dryRun=False):
     manifest = str(datetime.datetime.utcnow()) + "\n"
     for p, h in sorted(manifests, key=keyManifest):
         manifest += f"{h} {p}\n"
-
-    if not dryRun:
-        with open(os.path.join(path, "manifest.txt"), "w", encoding="utf-8") as fh:
-            fh.write(manifest)
 
     return manifest
 
