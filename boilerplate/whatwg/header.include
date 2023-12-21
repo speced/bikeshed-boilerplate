@@ -5,7 +5,6 @@
 <meta name="theme-color" content="#3c790a">
 <meta name="color-scheme" content="light dark">
 <title>[TITLE]</title>
-<link href="https://resources.whatwg.org/common.css" rel="stylesheet">
 <link href="https://resources.whatwg.org/standard-shared-with-dev.css" rel="stylesheet">
 <link href="https://resources.whatwg.org/standard.css" rel="stylesheet">
 <link href="https://resources.whatwg.org/spec.css" rel="stylesheet">
