@@ -5,7 +5,7 @@
   "Force Crossorigin": "yes",
   "Status": "LS",
   "No Editor": "yes",
-  "Boilerplate": "style-md-lists off, style-autolinks off, style-selflinks off, style-counters off, style-syntax-highlighting off, style-idl-highlighting off, style-colors off, feedback-header off, conformance off, issues-index off",
+  "Boilerplate": "style-md-lists off, style-autolinks off, style-selflinks off, style-counters off, style-syntax-highlighting off, style-idl-highlighting off, style-colors off, style-issues off, feedback-header off, conformance off, issues-index off",
   "Dark Mode": "on",
   "Include Mdn Panels": "if possible",
   "Complain About": "missing-example-ids yes, accidental-2119 yes",
