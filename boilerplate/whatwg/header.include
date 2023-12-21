@@ -5,11 +5,12 @@
 <meta name="theme-color" content="#3c790a">
 <meta name="color-scheme" content="light dark">
 <title>[TITLE]</title>
-<link href="https://resources.whatwg.org/spec.css" rel="stylesheet">
-<link href="https://resources.whatwg.org/standard.css" rel="stylesheet">
+<link href="https://resources.whatwg.org/common.css" rel="stylesheet">
 <link href="https://resources.whatwg.org/standard-shared-with-dev.css" rel="stylesheet">
+<link href="https://resources.whatwg.org/standard.css" rel="stylesheet">
+<link href="https://resources.whatwg.org/spec.css" rel="stylesheet">
 <link href="[LOGO]" rel="icon">
-<script src=https://resources.whatwg.org/commit-snapshot-shortcut-key.js defer></script>
+<script src="https://resources.whatwg.org/commit-snapshot-shortcut-key.js" defer></script>
 
 <body class="h-entry status-[STATUS]">
 <div class="head">
