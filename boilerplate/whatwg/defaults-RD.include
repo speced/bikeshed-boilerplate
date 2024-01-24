@@ -3,6 +3,7 @@
   "Issue Class": "XXX",
   "Use Dfn Panels": "no",
   "Force Crossorigin": "yes",
+  "Die On": "warning",
   "No Editor": "yes",
   "Boilerplate": "style-md-lists off, style-autolinks off, style-selflinks off, style-counters off, style-syntax-highlighting off, style-issues off, feedback-header off, conformance off, issues-index off,  script-mdn-anno off, style-colors off, script-dfn-panel off, script-ref-hints off",
   "Complain About": "missing-example-ids yes, accidental-2119 yes",
