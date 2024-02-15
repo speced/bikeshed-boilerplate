@@ -1,0 +1,26 @@
+name: Update Manifest
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - name: Install dependencies
+      run: |
+        pip install bikeshed
+    - name: Generate new manifest
+      run: python generate/__init__.py
+    - name: Commit manifest back
+      uses: peter-evans/create-pull-request@v5
+      with:
+        branch: update-manifest
+        commit-message: 'chore: Update manifest file. [skip actions]'
+        title: 'Update manifest based on current state of the repo.'
