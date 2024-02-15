@@ -17,7 +17,7 @@ jobs:
       run: |
         pip install bikeshed
     - name: Generate new manifest
-      run: python generate/__init__.py
+      run: ./update-manifest
     - name: Commit manifest back
       uses: peter-evans/create-pull-request@v5
       with:
