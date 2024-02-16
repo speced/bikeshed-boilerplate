@@ -32,15 +32,15 @@ before it starts searching thru its own data files.
 
 (If you're using the API version of Bikeshed, or passing Bikeshed a spec on stdin,
 there's no way to test new boilerplates.
-Install it locally from `pip` and put the spec into a file.)
+Install it locally from `pipx` and put the spec into a file.)
 
 ## When Are Boilerplates Available?
 
 After a boilerplate change has been merged,
-the manifest file needs to be updated and committed to the repo:
-`python3 generate/__init__.py` will do so.
+a PR will be automatically created with the appropriate changes to the manifest file.
+(This can be done manually by running `./update-manifest` in this folder).
 
-Once that's done, a few minutes later the change will be picked up by [bikeshed-data](https://github.com/tabatkins/bikeshed-data)
+Once that PR is merged, a few minutes later the change will be picked up by [bikeshed-data](https://github.com/tabatkins/bikeshed-data)
 (check the commit log to see it),
 at which point a `bikeshed update` will bring the new boilerplates in.
 Alternately, manually updating the boilerplates with `bikeshed update --skip-manifest --boilerplate` will pull the new files down immediately,
