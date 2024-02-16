@@ -7,14 +7,14 @@ import os
 
 def main():
     rootPath = Path(__file__).resolve().parent.parent
-    print(rootPath)
+    print(f"Root path is «{rootPath}»")
     oldManifest = open(rootPath / "manifest.txt", "r", encoding="utf-8").read()
     newManifest = createManifest(rootPath, folders=["boilerplate"])
     if(manifestsDiffer(oldManifest, newManifest)):
         with open(rootPath / "manifest.txt", "w", encoding="utf-8") as fh:
             fh.write(newManifest)
-        subprocess.check_call(f"git commit -m 'Update manifest' '{rootPath/'boilerplate'}' '{rootPath/'manifest.txt'}'")
-        subprocess.check_call()
+        #subprocess.check_call(f"git commit -m 'Update manifest' '{rootPath/'boilerplate'}' '{rootPath/'manifest.txt'}'")
+        #subprocess.check_call()
     else:
         print("Manifest didn't change; exiting.")
 
