@@ -7,6 +7,7 @@ import os
 
 def main():
     rootPath = Path(__file__).resolve().parent.parent
+    print(rootPath)
     oldManifest = open(rootPath / "manifest.txt", "r", encoding="utf-8").read()
     newManifest = createManifest(rootPath, folders=["boilerplate"])
     if(manifestsDiffer(oldManifest, newManifest)):
