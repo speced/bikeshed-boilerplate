@@ -35,7 +35,7 @@
 <p>
   Publication as a Candidate Recommendation does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr>
   and its Members. A Candidate Recommendation Draft integrates changes from the
-  previous Candidate Recommendation that the Working Group(s) intends to include in
+  previous Candidate Recommendation that the Working Group<span include-if="Text Macro: JOINT">s</span> intends to include in
   a subsequent Candidate Recommendation Snapshot. This is a draft document and
   may be updated, replaced or obsoleted by other documents at any time. It is
   inappropriate to cite this document as other than work in progress.
@@ -44,9 +44,9 @@
 <p>
   The entrance criteria for this document to enter the Proposed Recommendation stage
   is to have a minimum of two independent and interoperable user agents that
-  implementation all the features of this specification, which will be determined by
+  implement all the features of this specification, which will be determined by
   passing the user agent tests defined in the test suite developed by the Working
-  Group(s). The Working Group(s) will prepare an implementation report to track progress.
+  Group<span include-if="Text Macro: JOINT">s</span>. The Working Group<span include-if="Text Macro: JOINT">s</span> will prepare an implementation report to track progress.
 </p>
 
 <p exclude-if="Text Macro: JOINT">
