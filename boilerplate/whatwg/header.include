@@ -14,7 +14,7 @@
 <body class="h-entry status-[STATUS]">
 <div class="head">
   <a href="https://whatwg.org/" class="logo">
-    <img alt="WHATWG" height="100" src="[LOGO]">
+    <img alt="WHATWG" height="100" src="[LOGO]" class="darkmode-aware">
   </a>
   <hgroup>
     <h1 id="title" class="p-name no-ref">[H1]</h1>
