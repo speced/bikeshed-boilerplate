@@ -21,24 +21,6 @@
 </p>
 
 <p>
-	If you wish to make comments regarding this document, please send them to
-	<a href="mailto:public-device-apis@w3.org?Subject=%5B[SHORTNAME]%5D%20PUT%20SUBJECT%20HERE">public-device-apis@w3.org</a>
-	(<a href="mailto:public-device-apis-request@w3.org?subject=subscribe">subscribe</a>,
-	<a href="https://lists.w3.org/Archives/Public/public-device-apis/">archives</a>)
-  <span include-if="Text Macro: JOINTWEBAPPS">
-    and <a href="mailto:public-webapps@w3.org?Subject=%5Borientation-event%5D%20PUT%20SUBJECT%20HERE">public-webapps@w3.org</a> 
-    (<a href="mailto:public-webapps-request@w3.org?subject=subscribe">subscribe</a>, 
-    <a href="https://lists.w3.org/Archives/Public/public-webapps/">archives</a>)
-  </span>
-	.
-	When sending e-mail,
-	please put the text “[SHORTNAME]” in the subject,
-	preferably like this:
-	“[<!---->[SHORTNAME]] <em>…summary of comment…</em>”.
-	All comments are welcome.
-</p>
-
-<p>
   Publication as a Candidate Recommendation does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr>
   and its Members. A Candidate Recommendation Draft integrates changes from the
   previous Candidate Recommendation that the Working Group<span include-if="Text Macro: JOINT">s</span> intend<span exclude-if="Text Macro: JOINT">s</span> to include in
@@ -80,4 +62,5 @@
   This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/2023/Process-20231103/">03 November 2023 W3C Process Document</a>.
 
 <p>
+For changes since the last publication, see the <a href="#changes">Changes</a> section.
 	[STATUSTEXT]
