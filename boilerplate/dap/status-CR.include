@@ -78,7 +78,7 @@
 </p>
 
 <p include-if="Text Macro: JOINTWEBAPPS">
-  For general working group annoucements, admistrivial, and non-technical matters
+  For general working group announcements, administrivia, and non-technical matters
   email either <a href="mailto:public-device-apis@w3.org">public-device-apis@w3.org</a>
 	(<a href="mailto:public-device-apis-request@w3.org?subject=subscribe">subscribe</a>,
 	<a href="https://lists.w3.org/Archives/Public/public-device-apis/">archives</a>) 
