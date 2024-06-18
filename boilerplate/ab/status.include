@@ -13,14 +13,14 @@
 	This document was published
 	by the <a href="https://www.w3.org/groups/other/ab/">Advisory Board</a>
 	as a Group Note
-	using the <a href="https://www.w3.org/2023/Process-20231103/#recs-and-notes">Note track</a>.
+	using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Note track</a>.
 	Group Notes are not endorsed by W3C nor its Members.
 
 <p include-if="NOTE-FPWD, NOTE-WD" data-deliverer="7756">
 	This document was published
 	by the <a href="https://www.w3.org/groups/other/ab/">Advisory Board</a>
 	as a Group Draft Note
-	using the <a href="https://www.w3.org/2023/Process-20231103/#recs-and-notes">Note track</a>.
+	using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Note track</a>.
 	Group Draft Notes are not endorsed by W3C nor its Members.
 	This is a draft document
 	and may be updated, replaced
@@ -28,9 +28,9 @@
 	It is inappropriate to cite this document as other than work in progress.
 
 <p>This document is governed by the
-	<a id="w3c_process_revision" href="https://www.w3.org/2023/Process-20231103/">03 November 2023 W3C Process Document</a>.
+	<a id="w3c_process_revision" href="https://www.w3.org/policies/process/20231103/">03 November 2023 W3C Process Document</a>.
 
-<p>The <a href="https://www.w3.org/Consortium/Patent-Policy-20200915/">15 September 2020 W3C Patent Policy</a>
+<p>The <a href="https://www.w3.org/policies/patent-policy/20200915/">15 September 2020 W3C Patent Policy</a>
 	does not carry any licensing requirements or commitments on this document.
 
 <p>[STATUSTEXT]
