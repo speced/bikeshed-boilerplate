@@ -1,4 +1,4 @@
-2024-06-18 21:32:12.813669
+2024-06-22 00:16:00.277690
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -131,6 +131,10 @@ a94bd18d4bcda787c51eaa3568111afd boilerplate/secondscreenwg/status-WD.include
 9d856b1a09d9e088619809337bd04f92 boilerplate/serviceworkers/status-CR.include
 7a955bc4975ee54aae945ba88aa2183d boilerplate/serviceworkers/status-ED.include
 01dd17d170e57c7c293a6d8b20d9c989 boilerplate/serviceworkers/status-WD.include
+90ec2a319bf996d0d229b5c641039e35 boilerplate/solidcg/copyright-CG-DRAFT.include
+ac3c2a2d14a1368e59b5f7263acb9577 boilerplate/solidcg/copyright-CG-FINAL.include
+98a84ca83c404e3b99c05242c23d594e boilerplate/solidcg/status-CG-DRAFT.include
+8d8f17cce92d8cc20dcee4467bac0a43 boilerplate/solidcg/status-CG-FINAL.include
 c21ff85d3454a4327ad5f81b70aa20d8 boilerplate/svg/defaults.include
 dd593ff16f27ca11ccbea1211c33e874 boilerplate/svg/status-ED.include
 804bfa6ab8b16697836c45b183f3c46d boilerplate/svg/status-WD.include
