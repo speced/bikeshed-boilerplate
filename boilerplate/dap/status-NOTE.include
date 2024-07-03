@@ -38,10 +38,6 @@
   The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document.
 </p>
 
-<p>
-  This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/2023/Process-20231103/">03 November 2023 W3C Process Document</a>.
-</p>
-
 <p include-if="Text Macro: JOINTWEBAPPS">
   For general working group announcements, administrivia, and non-technical matters
   email either <a href="mailto:public-device-apis@w3.org">public-device-apis@w3.org</a>
@@ -50,6 +46,10 @@
   or <a href="mailto:public-webapps@w3.org">public-webapps@w3.org</a>
 	(<a href="mailto:public-webapps-request@w3.org?subject=subscribe">subscribe</a>,
 	<a href="https://lists.w3.org/Archives/Public/public-webapps/">archives</a>).
+</p>
+
+<p>
+  This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/2023/Process-20231103/">03 November 2023 W3C Process Document</a>.
 </p>
 
 <p>
