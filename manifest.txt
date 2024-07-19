@@ -1,4 +1,4 @@
-2024-07-03 04:17:10.974928
+2024-07-19 21:25:23.046088
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -20,8 +20,8 @@ aa6e1dfd438c5d0a33c21ee7d6b0403e boilerplate/warning-expired.include
 e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 a86bc93530a668fb1db361b2648c25d1 boilerplate/ab/footer.include
 40e890eb6b6888e93df317ac312d83ee boilerplate/ab/status.include
-5e622ce07aefb821ebeece8e6e1c7fd0 boilerplate/act-rules-format/status-ED.include
-f1bbf5280ee1bcc31ce23f0c154cd4d7 boilerplate/act-rules-format/status-WD.include
+d76520a3d091d5fe9bdfb3cf2ebdfc7f boilerplate/act-rules-format/copyright.include
+2361bcf802f840d5da178fe1b239484d boilerplate/act-rules-format/status.include
 5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
 9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults-FD.include
 42284ee6acfa29db163d51e6ed6868dd boilerplate/aom/defaults-PD.include
