@@ -1,4 +1,4 @@
-2024-07-19 21:25:23.046088
+2024-07-22 19:57:52.703518
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -200,9 +200,9 @@ ac4e40dfd7f1e54419a1fc43caf6ae4d boilerplate/webediting/status-ED.include
 8747e8de2bd698b392b42212609013f5 boilerplate/webfontswg/defaults.include
 862e6318c83f3fc4e3c9de5cbea7bce9 boilerplate/webfontswg/header-ED.include
 998aeb6745ddf612cb89008350583727 boilerplate/webfontswg/status-CR.include
-ad7e0c4f95b5f02bc2196555f5dea67c boilerplate/webfontswg/status-ED.include
-9597ca209bfca405dfb7fb46154b2884 boilerplate/webfontswg/status-FPWD.include
-cc21eba4ffcbf57a251412693c98206d boilerplate/webfontswg/status-WD.include
+c7556d83d2eabcbf6e76a3c4b1f8817f boilerplate/webfontswg/status-ED.include
+fbb8eb0ecf4fe3bd85dc62607a67f495 boilerplate/webfontswg/status-FPWD.include
+51dbb9627859932f7e71d9b3cedf6cac boilerplate/webfontswg/status-WD.include
 c97c811fc67d065bfb5676b24cfa97d3 boilerplate/webgl/copyright.include
 90c9f32861f87160cc74009ec91ae5ff boilerplate/webgl/defaults.include
 b8b53a5151245ce48d86301227c5be68 boilerplate/webgl/header.include
