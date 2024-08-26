@@ -16,12 +16,14 @@ just send a PR.
 
 If you need to add or remove files from an existing group's folder,
 send a PR.
-I will additionally need to regenerate the manifest,
-so it might be delayed until I'm at a work computer.
+About a minute after it's merged,
+an automated "update the manifest" PR will show up
+and needs to be merged as well.
 
 If you're adding files for a new group,
 look for an existing group's files that generate specs that look similar to what you want.
 If you're a W3C group, start with the contents of the `boilerplates/w3c/` folder.
+Then update the `boilerplate/doctypes.kdl` file to document the new group.
 
 ## Testing Boilerplates Before Adding Them Here
 
