@@ -1,5 +1,5 @@
-2024-08-23 19:22:15.229567
-423588fa03404df583c61ac733672269 boilerplate/doctypes.kdl
+2024-08-26 21:44:22.644819
+446d9665e0d4cd027efcae66115a364f boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
