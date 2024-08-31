@@ -1,4 +1,4 @@
-2024-08-26 22:15:06.774963
+2024-08-31 03:35:22.655594
 446d9665e0d4cd027efcae66115a364f boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
@@ -176,8 +176,8 @@ ba67a92d71a7541c593ce08a4aed9488 boilerplate/w3c/header.include
 45319aed0978981f81858381d50e03e7 boilerplate/w3t/header.include
 edbeccd56627e7bd74d26030ad0153ad boilerplate/wasm/abstract.include
 7cc36ce5dded7f5d27780b5e7ef877d2 boilerplate/wasm/defaults.include
-e38f84a254a40f2965b6b009985d838d boilerplate/wasm/status-CR.include
-91143ba8abcf80884681ab36730216e2 boilerplate/wasm/status-CRD.include
+1355d7dda2a9130e8f61675f2519f2c9 boilerplate/wasm/status-CR.include
+0e02934c12a56fec196d6435efab049c boilerplate/wasm/status-CRD.include
 12b94e1348902264420107f34ad822af boilerplate/wasm/status-ED.include
 55b45b2b922a6a0585f6cd98d5e43641 boilerplate/wasm/status-FPWD.include
 9135bb6a8f1d19d1dc8e15918534a970 boilerplate/wasm/status-WD.include
