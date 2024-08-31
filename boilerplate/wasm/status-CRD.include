@@ -12,7 +12,9 @@
 
  
   <p>Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Draft integrates changes from the previous Candidate Recommendation that the Working Group intends to include in a subsequent Candidate Recommendation Snapshot.</p>
-  
+
+  <p>The WebAssembly Working group intends to maintain this publication in the Candidate Recommendation state and continually update it as a "living standard" rather than transition to Recommendation state. In any case a REC transition will not be requested before [DEADLINE].</p>
+
    <p>
     <a href="https://github.com/WebAssembly/spec/issues">GitHub Issues</a>
     are preferred for discussion of this specification.
