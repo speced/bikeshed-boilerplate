@@ -1,5 +1,5 @@
-2024-08-31 03:35:22.655594
-446d9665e0d4cd027efcae66115a364f boilerplate/doctypes.kdl
+2024-09-26 19:11:51.820715
+b0b1764062148081a8244b6d730c2032 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -39,6 +39,13 @@ b6c60779b860131901fe36793694edc8 boilerplate/browser-testing-tools/status-ED.inc
 c95a54b56cb2acc0c19f993c41e96d6d boilerplate/browser-testing-tools/status-WD.include
 d41d8cd98f00b204e9800998ecf8427e boilerplate/byos/abstract.include
 82b912bb989f75452a28c41a486a2d07 boilerplate/byos/defaults.include
+e310e191177e51fe1f39006802c4e4de boilerplate/cssnext/copyright.include
+faa017e58f53faaf91c0e2200514986c boilerplate/cssnext/defaults.include
+c1f1554a6db784cb3e6c8bc355f28ee0 boilerplate/cssnext/footer-NOTE.include
+25dcc748af12481f18a8e2bbebfbbca5 boilerplate/cssnext/footer.include
+ba67a92d71a7541c593ce08a4aed9488 boilerplate/cssnext/header.include
+2fad5ace8ae612323c6067975f25e300 boilerplate/cssnext/logo.include
+0d7119d3baa2dfd73b6cc0f0b2488019 boilerplate/cssnext/status.include
 9a8c53a5f72b89bf8de4519f0f41cb46 boilerplate/csswg/abstract.include
 3feead45e1c1e892a14173747c597ef8 boilerplate/csswg/computed-metadata.include
 635c8a783e1b1b4831f92078c1d98a82 boilerplate/csswg/copyright-DREAM.include
