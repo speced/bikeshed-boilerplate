@@ -106,6 +106,7 @@ org "w3c" {
     group "csswg" type="wg" priv-sec=true {
         requires "Work Status"
     }
+    group "cssnext" type="cg"
     group "dap" type="wg" priv-sec=true
     group "fedid" type="wg" priv-sec=true
     group "fedidcg" type="cg"
