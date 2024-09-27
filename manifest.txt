@@ -1,4 +1,4 @@
-2024-09-26 21:53:56.144597
+2024-09-27 18:13:41.633004
 b0b1764062148081a8244b6d730c2032 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
@@ -208,8 +208,7 @@ f7d85b4b510f0f5e87cc1bfe0ed32ed4 boilerplate/webauthn/status-CR.include
 20b06a4898deb3a34570f30e2396e473 boilerplate/webauthn/status-ED.include
 95dce5ad241521ecc1ece68ed9f56d68 boilerplate/webauthn/status-WD.include
 89918a4a1e42008d2e1bef6dcdc17af6 boilerplate/webediting/defaults.include
-ac4e40dfd7f1e54419a1fc43caf6ae4d boilerplate/webediting/status-ED.include
-372ec15035ff4f4deff66aaad57f1576 boilerplate/webediting/status-WD.include
+721b1a4dbedde0825939785392116e34 boilerplate/webediting/status.include
 8747e8de2bd698b392b42212609013f5 boilerplate/webfontswg/defaults.include
 862e6318c83f3fc4e3c9de5cbea7bce9 boilerplate/webfontswg/header-ED.include
 998aeb6745ddf612cb89008350583727 boilerplate/webfontswg/status-CR.include
