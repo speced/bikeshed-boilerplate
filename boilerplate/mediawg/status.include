@@ -12,30 +12,37 @@
 
 
 <p include-if="ED">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as an Editor's Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as an Editor's Draft.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="NOTE-ED">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as an Editor's Draft.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as an Editor's Draft.
   The group does not expect this document to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
-<p include-if="FPWD,WD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Working Draft using the <a
+<p include-if="FPWD">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a First Public Working Draft using the <a
+      href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
+      track</a>.
+  This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
+</p>
+
+<p include-if="WD">
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Working Draft using the <a
       href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
       track</a>.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="NOTE-FPWD,NOTE-WD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Group Draft Note using the <a
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Group Draft Note using the <a
     href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Note
     track</a>.
 </p>
 
 <p include-if="CR">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Recommendation using the <a
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Candidate Recommendation using the <a
       href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
       track</a>.
   This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
@@ -43,25 +50,25 @@
 </p>
 
 <p include-if="NOTE">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Group Note using the <a
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Group Note using the <a
     href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Note
     track</a>.
 </p>
 
 <p include-if="DRY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="CRY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Snapshot using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Candidate Registry Snapshot using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="CRYD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Candidate Registry Draft using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Candidate Registry Draft using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="RY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media">Media Working Group</a> as a Registry using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Registry using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Registry track</a>.
 </p>
 
 
@@ -75,7 +82,12 @@
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 </p>
 
-<p include-if="FPWD,WD">
+<p include-if="FPWD">
+  Publication as a First Public Working Draft does not imply endorsement by
+    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+</p>
+
+<p include-if="WD">
   Publication as a Working Draft does not imply endorsement by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 </p>
@@ -135,7 +147,7 @@
 
 <p exclude-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED">
   This document was produced by a group operating under the <a id="sotd_patent" property="w3p:patentRules" href="https://www.w3.org/policies/patent-policy/">W3C Patent Policy</a>.
-  <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/media/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/policies/patent-policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
+  <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/media/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/policies/patent-policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/policies/patent-policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
 </p>
 
 <p include-if="NOTE,NOTE-FPWD,NOTE-WD,NOTE-ED,DRY,CRY,CRYD,RY" data-deliverer="115198">
