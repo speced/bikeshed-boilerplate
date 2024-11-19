@@ -1,4 +1,4 @@
-2024-11-05 22:14:50.827101
+2024-11-19 17:26:32.483929
 b0b1764062148081a8244b6d730c2032 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
@@ -35,8 +35,7 @@ f12e06c3653b76ac8cc10665e8b19a1e boilerplate/aom/header-FD.include
 79e3029a1bd8affd554e7e483109c697 boilerplate/audiowg/status-ED.include
 d9f12d9176cbf5297578d54d69777f80 boilerplate/audiowg/status-FPWD.include
 4d76b6099c11763a174cec974b45b3d6 boilerplate/audiowg/status-WD.include
-b6c60779b860131901fe36793694edc8 boilerplate/browser-testing-tools/status-ED.include
-c95a54b56cb2acc0c19f993c41e96d6d boilerplate/browser-testing-tools/status-WD.include
+03310285084d004e7a35dc0be1bd9609 boilerplate/browser-testing-tools/status.include
 d41d8cd98f00b204e9800998ecf8427e boilerplate/byos/abstract.include
 82b912bb989f75452a28c41a486a2d07 boilerplate/byos/defaults.include
 e310e191177e51fe1f39006802c4e4de boilerplate/cssnext/copyright.include
