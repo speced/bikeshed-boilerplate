@@ -13,22 +13,28 @@
 
 <p include-if="ED">
   This document was published by the <a href="https://www.w3.org/groups/wg/gpu">GPU for the Web Working Group</a> as an Editor's Draft.
-  This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="FPWD,WD">
   This document was published by the <a href="https://www.w3.org/groups/wg/gpu">GPU for the Web Working Group</a> as a Working Draft using the <a
       href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
       track</a>.
-  This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
 </p>
 
 <p include-if="CR">
-  This document was published by the <a href="https://www.w3.org/groups/wg/gpu">GPU for the Web Working Group</a> as a Candidate Recommendation using the <a
-      href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
-      track</a>.
-  This document is intended to become a <abbr title="World Wide Web Consortium">W3C</abbr> Recommendation.
-  This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
+  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Snapshot using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE]">[DEADLINE]</time> in order to ensure the opportunity for wide review.
+</p>
+
+<p include-if="CRD">
+  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Draft using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE]">[DEADLINE]</time> in order to ensure the opportunity for wide review.
+</p>
+
+<p include-if="CR">
+  This document defines a stable implementation target, which the GPU for the Web Working Group plans to iterate over and extend in subsequent revisions. It might also evolve based on feedback gathered as its associated test suite evolves.
+</p>
+
+<p>
+  The group expects to demonstrate implementation of each feature in at least two deployed browsers on top of modern GPU system APIs. The test suite will be used to build an implementation report.
 </p>
 
 <p include-if="FPWD">
@@ -46,21 +52,21 @@
 </p>
 
 <p include-if="CR">
-  Publication as a Candidate Recommendation does not imply endorsement by
-    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+  Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Snapshot has received <a href="https://www.w3.org/policies/process/20231103/#dfn-wide-review">wide review</a>, is intended to gather implementation experience, and has commitments from Working Group members to <a href="https://www.w3.org/policies/patent-policy/#sec-Requirements">royalty-free licensing</a> for implementations.
+</p>
+
+<p include-if="CRD">
+  Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Draft integrates changes from the previous Candidate Recommendation that the Working Group intends to include in a subsequent Candidate Recommendation Snapshot.
+</p>
+
+
+<p exclude-if="CR">
+  This document is maintained and updated at any time. Some parts of this document are work in progress.
 </p>
 
 <p>
-  This is a draft document and may be updated, replaced or obsoleted by other documents at any time.
-  It is inappropriate to cite this document as other than work in progress.
+  This document was produced by a group operating under the <a class="css" data-link-type="property" href="https://www.w3.org/policies/patent-policy/" id="sotd_patent">W3C Patent Policy</a>. <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/gpu/ipr/" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/policies/patent-policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/policies/patent-policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
 </p>
-
-
-<p>
-  This document was produced by a group operating under the <a id="sotd_patent" property="w3p:patentRules" href="https://www.w3.org/policies/patent-policy/">W3C Patent Policy</a>.
-  <abbr title="World Wide Web Consortium">W3C</abbr> maintains a <a href="https://www.w3.org/groups/wg/gpu/ipr" rel="disclosure">public list of any patent disclosures</a> made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains <a href="https://www.w3.org/policies/patent-policy/#def-essential">Essential Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure">section 6 of the <abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>.
-</p>
-
 
 <p>
   This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/policies/process/20231103/">03 November 2023 W3C Process Document</a>.
