@@ -101,6 +101,7 @@ org "w3c" {
     group "ab" type=null
     group "act-framework" type="wg"
     group "act-rules-format" type="wg"
+    group "audiocg" type="cg"
     group "audiowg" type="wg" priv-sec=true
     group "browser-testing-tools" type="wg"
     group "cssnext" type="cg"
