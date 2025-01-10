@@ -4,15 +4,16 @@
     <abbr title="World Wide Web Consortium">W3C</abbr> publications and the
     latest revision of this technical report can be found in the <a
     href="https://www.w3.org/TR/"><abbr title="World Wide Web
-    Consortium">W3C</abbr> technical reports index</a>.</em>
+    Consortium">W3C</abbr> technical reports index</a>
+    at https://www.w3.org/TR/.</em>
   </p>
 
   <p>
     This document was published by the <a
-    href="https://www.w3.org/2001/tag/">W3C Technical Architecture Group
-    (TAG)</a> as a [LONGSTATUS].
-    Publication as a [LONGSTATUS] does not imply endorsement by
-    <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+    href="https://www.w3.org/groups/other/tag/">Technical Architecture Group</a>
+    as a Group Note using the Note track.
+    Group Notes are not endorsed by <abbr title="World Wide Web
+    Consortium">W3C</abbr> nor its Members.
   </p>
 
   [STATUSTEXT]
@@ -22,6 +23,12 @@
     <a href="https://github.com/[REPOSITORY]/issues">file an issue</a>
     in this document’s
     <a href="https://github.com/[REPOSITORY]/">GitHub repository</a>.
+  </p>
+
+  <p data-deliverer="34270">
+    The <a href="https://www.w3.org/policies/patent-policy/"><abbr title="World
+    Wide Web Consortium">W3C</abbr> Patent Policy</a> does not carry any
+    licensing requirements or commitments on this document.
   </p>
 
   <p>
