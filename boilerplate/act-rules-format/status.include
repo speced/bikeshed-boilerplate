@@ -9,7 +9,7 @@
 
 <p include-if="FPWD">This is a First Public Working Draft of Accessibility Conformance Testing (ACT) Rules Format [LEVEL] by the <a href="https://www.w3.org/groups/wg/ag/">Accessibility Guidelines Working Group</a>. ACT-Rules Format [LEVEL] is a complete draft, addressing all of the <a href="https://w3c.github.io/wcag-act/act-fr-reqs.html">requirements</a> the ACT Task Force believes are important to cover when writing rules. The ACT-Rules Format is based on rules developed by the <a href="https://act-rules.github.io/">ACT-Rules Community Group</a>.</p>
 
-<p>[STATUSTEXT]
+[STATUSTEXT]
 
 <p>To comment, <a href="https://github.com/w3c/wcag-act/issues/new">file an issue in the <abbr title="World Wide Web Consortium">W3C</abbr> ACT GitHub repository</a>. It is free to create a GitHub account to file issues. If filing issues in GitHub is not feasible, send email to <a href="mailto:public-wcag-act-comments@w3.org?subject=ACT%20Format%201.1%20public%20comment">public-wcag-act-comments@w3.org</a> (<a href="https://lists.w3.org/Archives/Public/public-wcag-act-comments/">comment archive</a>). Comments are requested by <strong>[DEADLINE]</strong>. In-progress updates to the document may be viewed in the <a href="https://w3c.github.io/wcag-act/act-rules-format.html">publicly visible editors' draft</a>.</p>
 
