@@ -191,7 +191,7 @@ org "w3c" {
         group-types "wg"
     }
     status "CRD" "W3C Candidate Recommendation Draft" {
-        requires "Level" "ED" "TR" "Issue Tracking" "Date" "Deadline"
+        requires "Level" "ED" "TR" "Issue Tracking" "Date"
         group-types "wg"
     }
     status "PR" "W3C Proposed Recommendation" {
