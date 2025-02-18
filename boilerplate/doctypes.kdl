@@ -96,7 +96,7 @@ org "w3c" {
     use `type=null`.
     */
 
-    group "ab" type=ab
+    group "ab" type="ab"
     group "act-framework" type="wg"
     group "act-rules-format" type="wg"
     group "audiocg" type="cg"
