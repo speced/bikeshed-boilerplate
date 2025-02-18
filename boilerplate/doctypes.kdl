@@ -88,7 +88,7 @@ org "w3c" {
 
     /*
     Every group in this org must have a `type` attribute,
-    containing "wg", "ig", "cg", "council", or "tag";
+    containing "wg", "ig", "cg", "council", "ab", or "tag";
     this matches with the `group-types` children of the statuses
     (and might have some formatting effects, too).
     If a group should be able to use anything
@@ -96,7 +96,7 @@ org "w3c" {
     use `type=null`.
     */
 
-    group "ab" type=null
+    group "ab" type=ab
     group "act-framework" type="wg"
     group "act-rules-format" type="wg"
     group "audiocg" type="cg"
@@ -164,7 +164,7 @@ org "w3c" {
 
     /*
     Every status in w3c needs a `group-types` child,
-    with attributes that are any of "ig" "wg" "cg" "council" and/or "tag"
+    with attributes that are any of "ig" "wg" "cg" "council" "ab" and/or "tag"
     */
 
     status "LS" "Living Standard" {
@@ -173,7 +173,7 @@ org "w3c" {
     }
     status "ED" "Editor's Draft" {
         requires "Level" "ED"
-        group-types "ig" "wg" "tag"
+        group-types "ig" "wg" "tag" "ab"
     }
     status "WD" "W3C Working Draft" {
         requires "Level" "ED" "TR" "Issue Tracking" "Date"
@@ -217,19 +217,19 @@ org "w3c" {
     }
     status "NOTE" "W3C Group Note" {
         requires "TR" "Issue Tracking" "Date"
-        group-types "wg" "ig" "tag"
+        group-types "wg" "ig" "tag" "ab"
     }
     status "NOTE-ED" "Editor's Draft" {
         requires "ED"
-        group-types "wg" "ig" "tag"
+        group-types "wg" "ig" "tag" "ab"
     }
     status "NOTE-WD" "W3C Group Draft Note" {
         requires "ED" "TR" "Issue Tracking" "Date"
-        group-types "wg" "ig" "tag"
+        group-types "wg" "ig" "tag" "ab"
     }
     status "NOTE-FPWD" "W3C First Public Group Draft Note" {
         requires "ED" "TR" "Issue Tracking" "Date"
-        group-types "wg" "ig" "tag"
+        group-types "wg" "ig" "tag" "ab"
     }
     status "DRY" "W3C Draft Registry" {
         requires "TR" "Date"
@@ -253,7 +253,7 @@ org "w3c" {
     }
     status "UD" "Unofficial Proposal Draft" {
         requires "ED"
-        group-types "wg" "ig" "tag" "cg"
+        group-types "wg" "ig" "tag" "cg" "ab"
     }
     status "CG-DRAFT" "Draft Community Group Report" {
         requires "Level" "ED"
