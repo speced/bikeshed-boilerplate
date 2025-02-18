@@ -88,7 +88,7 @@ org "w3c" {
 
     /*
     Every group in this org must have a `type` attribute,
-    containing "wg", "ig", "cg", or "tag";
+    containing "wg", "ig", "cg", "council", or "tag";
     this matches with the `group-types` children of the statuses
     (and might have some formatting effects, too).
     If a group should be able to use anything
@@ -102,6 +102,7 @@ org "w3c" {
     group "audiocg" type="cg"
     group "audiowg" type="wg" priv-sec=true
     group "browser-testing-tools" type="wg"
+    group "council" type="council"
     group "cssnext" type="cg"
     group "csswg" type="wg" priv-sec=true {
         requires "Work Status"
@@ -163,7 +164,7 @@ org "w3c" {
 
     /*
     Every status in w3c needs a `group-types` child,
-    with attributes that are any of "ig" "wg" "cg" and/or "tag"
+    with attributes that are any of "ig" "wg" "cg" "council" and/or "tag"
     */
 
     status "LS" "Living Standard" {
@@ -269,6 +270,9 @@ org "w3c" {
     status "FINDING" "Finding" {
         requires "TR"
         group-types "tag"
+    }
+    status "COUNCIL-REPORT" "Council Report" {
+        group-types "council"
     }
 }
 
