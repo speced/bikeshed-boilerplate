@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>[TITLE]</title>
+  <link href="https://www.w3.org/StyleSheets/TR/2021/base.css" rel=stylesheet>
+</head>
+<body class="h-entry">
+<div class="head">
+  <p data-fill-with="logo"></p>
+  <h1 id="title" class="p-name no-ref">[TITLE]</h1>
+  <p><a href="https://www.w3.org/policies/process/#council-report">[LONGSTATUS]</a>,
+    <time class="dt-updated" datetime="[ISODATE]">[DATE]</time></p>
+  <div data-fill-with="warning"></div>
+  <p class='copyright' data-fill-with='copyright'></p>
+  <hr title="Separator for header">
+</div>
+
+<nav data-fill-with="table-of-contents" id="toc"></nav>
+<main>
