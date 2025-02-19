@@ -52,7 +52,7 @@ For any other data, casing is preserved.
 
 */
 
-org "bikeshed" {
+org bikeshed {
     group "test"
     group "byos"
     status "TEST" "Bikeshed Test File"
