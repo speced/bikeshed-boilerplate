@@ -20,7 +20,7 @@ jobs:
       with:
         python-version: '3.10'
     - name: Install kdl
-      run: pip install kdl-py
+      run: pip install kdl-py==1.2.0
     - name: Verify failing tests and orphaned tests
       run: |
         python .github/workflows/lint/lint-doctypes.py
