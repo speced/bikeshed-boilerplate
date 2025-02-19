@@ -1,0 +1,26 @@
+name: Lint doctypes.kdl
+
+on:
+  push:
+    paths:
+      - "boilerplate/doctypes.kdl"
+  pull_request:
+    paths:
+      - "boilerplate/doctypes.kdl"
+  workflow_dispatch: {}
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Install kdl
+      run: pip install kdl
+    - name: Verify failing tests and orphaned tests
+      run: |
+        python .github/workflows/lint/lint-doctypes.py
