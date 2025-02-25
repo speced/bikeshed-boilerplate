@@ -11,12 +11,15 @@
   <p>
     This document was published by the <a
     href="https://www.w3.org/groups/other/tag/">Technical Architecture Group</a>
-    as a Group Note using the Note track.
-    Group Notes are not endorsed by <abbr title="World Wide Web
+    as a Group Draft Note using the Note track.
+    This is a draft document and
+    may be updated, replaced or obsoleted by other documents at any time.
+    It is inappropriate to cite this document as other than work in progress.
+    Group Draft Notes are not endorsed by <abbr title="World Wide Web
     Consortium">W3C</abbr> nor its Members.
   </p>
 
-  [STATUSTEXT]
+  <p>[STATUSTEXT]</p>
 
   <p>
     Feedback and comments on this document are welcome. Please
