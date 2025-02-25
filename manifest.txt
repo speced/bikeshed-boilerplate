@@ -1,4 +1,4 @@
-2025-02-18 17:04:32.609826
+2025-02-25 21:26:46.108854
 9a98bf429c168d74fd2fe597e8c89ffb boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
@@ -149,13 +149,13 @@ d95a4e22dff928e470cca1c59091387d boilerplate/solidcg/copyright-CG-DRAFT.include
 c21ff85d3454a4327ad5f81b70aa20d8 boilerplate/svg/defaults.include
 dd593ff16f27ca11ccbea1211c33e874 boilerplate/svg/status-ED.include
 804bfa6ab8b16697836c45b183f3c46d boilerplate/svg/status-WD.include
-c8effb1f410a8bff23b0925f6d5a88d5 boilerplate/tag/header-WG-NOTE.include
 892e053f5594eb62b96820498f1edd56 boilerplate/tag/status-DRAFT-FINDING.include
 656efe85eccf2abeb1f70ab4d28f0183 boilerplate/tag/status-ED.include
 072ec96da71b097f4a134b5f9aaa27f0 boilerplate/tag/status-FINDING.include
-f22a43b5a2f483c076b25fc75f035215 boilerplate/tag/status-NOTE.include
+5affd3cbd175a2ffdff3a2db15e46761 boilerplate/tag/status-NOTE-ED.include
+279042575b02ab907d47e4cb9809bf29 boilerplate/tag/status-NOTE-WD.include
+12b5027629b74d13a704247b12f7300d boilerplate/tag/status-NOTE.include
 c4d6c9d20dd215d9b310b25049fb3b34 boilerplate/tag/status-UD.include
-feb5aae5c076581ec5db6828858c918c boilerplate/tag/status-WG-NOTE.include
 c4d6c9d20dd215d9b310b25049fb3b34 boilerplate/tag/status.include
 3c89abe73bb40b1937da6825643a04d0 boilerplate/tc39/defaults.include
 bbf199b0531ce6df48fc201c324a4cde boilerplate/tc39/footer.include
