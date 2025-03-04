@@ -1,4 +1,4 @@
-2025-02-25 21:26:46.108854
+2025-03-04 14:58:21.670034
 9a98bf429c168d74fd2fe597e8c89ffb boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 7c9882ee1f0773f17801e0d5f8d6a57a boilerplate/footer.include
@@ -195,8 +195,7 @@ d15b6e87763b113bcc41809bb278a838 boilerplate/web-bluetooth-cg/defaults.include
 ffb3615e0056b09febdbc3cbf8921e4f boilerplate/web-payments/defaults.include
 9ba0b7f872e0d31622a5eb4e24575f83 boilerplate/web-payments/status-FPWD.include
 43a38d9977fed7ba270b25463490a996 boilerplate/webapps/defaults.include
-9a1612d001a7f3df2df80d2e0aea0142 boilerplate/webapps/status-ED.include
-9522a5c9158a55cd864549b27a57ae6f boilerplate/webapps/status-WD.include
+7ff91ea7520ad6eab16b63061be6a0b1 boilerplate/webapps/status.include
 77b72f81ec172220cc2024bba4e50452 boilerplate/webappsec/defaults.include
 76d9c27c3dac0f81def5ee8598384ab6 boilerplate/webappsec/status-CR.include
 3d6ff41b0003aefd2ef29187d749418a boilerplate/webappsec/status-CRD.include
