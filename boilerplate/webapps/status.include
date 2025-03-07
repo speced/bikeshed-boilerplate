@@ -75,7 +75,7 @@
 	Publication as a First Public Working Draft
 	does not imply endorsement by <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 
-<p include-if="NOTE"
+<p include-if="NOTE">
 	This document was published
 	by the <a href="https://www.w3.org/groups/wg/webapps">Web Applications Working Group</a>
 	as a Group Note
