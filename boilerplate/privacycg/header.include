@@ -6,7 +6,6 @@
 <link href="[W3C-STYLESHEET-URL]" rel=stylesheet>
   <body>
 <header>
-<p data-fill-with="logo"></p>
 <h1 id=title class=no-ref>[TITLE]</h1>
 <h2 id=subtitle class="no-num no-toc no-ref">[LONGSTATUS],
   <time datetime="[ISODATE]">[DATE]</time></h2>
