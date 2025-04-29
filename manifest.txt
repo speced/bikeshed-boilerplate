@@ -1,5 +1,5 @@
-2025-03-31 21:16:15.007043
-9a98bf429c168d74fd2fe597e8c89ffb boilerplate/doctypes.kdl
+2025-04-29 17:08:51.541582
+bbb00f7010160686bbd129afa73df8e9 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -120,6 +120,8 @@ aa10a1580e5993746c96f5e91a8cd337 boilerplate/mediacapture/status-WD.include
 adb22ddff3cf0f3caa82568a7bf73e4c boilerplate/mediawg/status.include
 38053bf6412fa2284da36febaf1b7eed boilerplate/patcg-id/copyright.include
 9f3b0455ff60beea0a59c94f7f51463b boilerplate/patcg-id/status.include
+34522ad1039a09dce4a36293a9c6c03e boilerplate/patwg/defaults.include
+309ab443b7b0d30d3bbf15fe93e1eef8 boilerplate/patwg/status.include
 34863bf2c266566961b90f6ca6b927c3 boilerplate/ping/defaults.include
 d65ccf610db8e3c1368119cbf97df934 boilerplate/ping/status-ED.include
 60032c3755741a33d8d546b2eee2359b boilerplate/privacycg/copyright.include
