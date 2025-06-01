@@ -37,6 +37,3 @@
 <nav data-fill-with="table-of-contents" id="toc"></nav>
 
 <main>
-
-<h2 class="no-num" id="intro">Introduction</h2>
-<div data-fill-with="introduction"></div>
