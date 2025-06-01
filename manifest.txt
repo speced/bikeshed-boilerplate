@@ -1,5 +1,5 @@
-2025-04-29 17:08:51.541582
-bbb00f7010160686bbd129afa73df8e9 boilerplate/doctypes.kdl
+2025-06-01 10:47:41.996923
+200ca11fdf75174d90deb6d8dd8a643e boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -275,3 +275,7 @@ d15b6e87763b113bcc41809bb278a838 boilerplate/wicg/defaults.include
 f193a2dc8c4d09eec8ce7355a25d626e boilerplate/wicg/status.include
 a9641ddf593bdf8156b0fa3e62a1262a boilerplate/wintercg/copyright.include
 cc6009c9ce34dbc44afce7bba54575cc boilerplate/wintercg/status.include
+e76f347eda209ca4e22a8fd0339e67a5 boilerplate/wintertc/copyright.include
+41c4c8d2ee1bb1f52481a6ff26fcba5e boilerplate/wintertc/footer.include
+0191e95df8055f5502de93d6b110eb6a boilerplate/wintertc/header.include
+e04a6358b916e0542a95014871166da7 boilerplate/wintertc/logo.include
