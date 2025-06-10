@@ -287,6 +287,12 @@ org "tc39" {
     status "STAGE4" "Stage 4: Finished"
 }
 
+org "wintertc" {
+    group "wintertc"
+
+    status "DRAFT" "Draft"
+}
+
 org "iso" {
     group "wg14"
     group "wg21" {
