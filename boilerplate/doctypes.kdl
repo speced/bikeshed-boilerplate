@@ -232,6 +232,10 @@ org "w3c" {
         requires "ED" "TR" "Issue Tracking" "Date"
         group-types "wg" "ig" "tag" "ab"
     }
+    status "STATEMENT" "W3C Statement" {
+        requires "TR" "Issue Tracking" "Date"
+        group-types "wg" "ig" "tag" "ab"
+    }
     status "DRY" "W3C Draft Registry" {
         requires "TR" "Date"
         group-types "wg"
