@@ -1,5 +1,5 @@
-2025-07-02 23:19:23.867120
-200ca11fdf75174d90deb6d8dd8a643e boilerplate/doctypes.kdl
+2025-07-17 09:13:17.803356
+820338b15a92e5ad69cdf5939cf0a4f8 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -20,7 +20,7 @@ aa6e1dfd438c5d0a33c21ee7d6b0403e boilerplate/warning-expired.include
 0cba8d93f154a1a5a8ba842dccd66531 boilerplate/warning-new-version.include
 e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 827bc45fbd969a9e197a5112337b9c5b boilerplate/ab/footer.include
-bb5680942e4b9623114905ddfe9fc2c9 boilerplate/ab/status.include
+222a3527bdb1bed4630ec4b5ad2a6d31 boilerplate/ab/status.include
 d76520a3d091d5fe9bdfb3cf2ebdfc7f boilerplate/act-rules-format/copyright.include
 69056904d453ebfdb7861a424fa90113 boilerplate/act-rules-format/status.include
 5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
