@@ -1,4 +1,4 @@
-2025-07-17 17:30:15.465548
+2025-07-25 10:15:56.993484
 820338b15a92e5ad69cdf5939cf0a4f8 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
@@ -82,7 +82,7 @@ a6d255ece15483ac7185484cbbf54378 boilerplate/fxtf/status-WD.include
 7fb12064780097a9df0a69b3c2e129d1 boilerplate/geolocation/defaults.include
 afbf375a49e699ec316dda2c56e53aca boilerplate/geolocation/status-ED.include
 e4d0b7297f72ebbd7ee735fbd2a92cda boilerplate/gpuwg/defaults.include
-b3b441e470c2bb7659556c5cb52f3932 boilerplate/gpuwg/status.include
+0fadec066e842a5de81ccab88f306c78 boilerplate/gpuwg/status.include
 af4f9866231fd3528673f5ce4c9d6893 boilerplate/houdini/bs-extensions.include
 25d671cc840baa43a0be681499ef1ca4 boilerplate/houdini/defaults.include
 07d8b54e9959209e97be35f1320f33fa boilerplate/houdini/footer-NOTE.include
