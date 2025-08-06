@@ -17,16 +17,16 @@
 
 <p include-if="FPWD,WD">
   This document was published by the <a href="https://www.w3.org/groups/wg/gpu">GPU for the Web Working Group</a> as a Working Draft using the <a
-      href='https://www.w3.org/policies/process/20231103/#recs-and-notes'>Recommendation
+      href='https://www.w3.org/policies/process/20250818/#recs-and-notes'>Recommendation
       track</a>.
 </p>
 
 <p include-if="CR">
-  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Snapshot using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
+  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Snapshot using the <a href="https://www.w3.org/policies/process/20250818/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time> in order to ensure the opportunity for wide review.
 </p>
 
 <p include-if="CRD">
-  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Draft using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/gpu/">GPU for the Web Working Group</a> as a Candidate Recommendation Draft using the <a href="https://www.w3.org/policies/process/20250818/#recs-and-notes">Recommendation track</a>. This document will remain a Candidate Recommendation at least until <time class="status-deadline" datetime="[ISODEADLINE?]">[DEADLINE?]</time>.
 </p>
 
 <p include-if="CR">
@@ -52,7 +52,7 @@
 </p>
 
 <p include-if="CR">
-  Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Snapshot has received <a href="https://www.w3.org/policies/process/20231103/#dfn-wide-review">wide review</a>, is intended to gather implementation experience, and has commitments from Working Group members to <a href="https://www.w3.org/policies/patent-policy/#sec-Requirements">royalty-free licensing</a> for implementations.
+  Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Snapshot has received <a href="https://www.w3.org/policies/process/20250818/#dfn-wide-review">wide review</a>, is intended to gather implementation experience, and has commitments from Working Group members to <a href="https://www.w3.org/policies/patent-policy/#sec-Requirements">royalty-free licensing</a> for implementations.
 </p>
 
 <p include-if="CRD">
@@ -69,7 +69,7 @@
 </p>
 
 <p>
-  This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/policies/process/20231103/">03 November 2023 W3C Process Document</a>.
+  This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/policies/process/20250818/">18 August 2025 W3C Process Document</a>.
 </p>
 
 

@@ -13,13 +13,13 @@
   This document was published
   by the <a href="https://www.w3.org/groups/wg/css">CSS Working Group</a>
   as a Group Note
-  using the <a href="https://www.w3.org/policies/process/20231103/#recs-and-notes">Note track</a>.
+  using the <a href="https://www.w3.org/policies/process/20250818/#recs-and-notes">Note track</a>.
   Group Notes are not endorsed by W3C nor its Members.
 
 <p>The CSS Next CG and the CSSWG are still in the process of identifying and solidifying the following categorizations. Feedback is welcome, join the conversation <a href="https://github.com/CSS-Next/css-next/discussions/92">on Github in the CSS Next RFC</a>.</p>
 
 <p>This document is governed by the
-  <a id="w3c_process_revision" href="https://www.w3.org/policies/process/20231103/">03 November 2023 W3C Process Document</a>.
+  <a id="w3c_process_revision" href="https://www.w3.org/policies/process/20250818/">18 August 2025 W3C Process Document</a>.
 
 <p exclude-if="ED,NOTE">This specification was published by the <a href="https://www.w3.org/community/css4/">CSS4 / CSS Next Community Group</a>.
   It is not a W3C Standard nor is it on the W3C Standards Track.
