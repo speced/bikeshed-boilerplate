@@ -1,4 +1,4 @@
-2025-08-18 06:17:31.278843
+2025-09-25 18:34:14.485814
 820338b15a92e5ad69cdf5939cf0a4f8 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
@@ -186,11 +186,7 @@ ba67a92d71a7541c593ce08a4aed9488 boilerplate/w3c/header.include
 45319aed0978981f81858381d50e03e7 boilerplate/w3t/header.include
 edbeccd56627e7bd74d26030ad0153ad boilerplate/wasm/abstract.include
 7cc36ce5dded7f5d27780b5e7ef877d2 boilerplate/wasm/defaults.include
-7835a50883c170e126e73d77860f0140 boilerplate/wasm/status-CR.include
-6272256b033ec89d711c3711b3211884 boilerplate/wasm/status-CRD.include
-42bf3db9d202bab63da751fc37c74ced boilerplate/wasm/status-ED.include
-b30f83ff01dc4a2273be781837ade6d5 boilerplate/wasm/status-FPWD.include
-d8fa76ca854dd05b2f7216d4be67b40f boilerplate/wasm/status-WD.include
+c2fb7de42678234d324d7b69b097813c boilerplate/wasm/status.include
 29315650731cbe88fd849d6bfba753fd boilerplate/web-bluetooth-cg/copyright.include
 d15b6e87763b113bcc41809bb278a838 boilerplate/web-bluetooth-cg/defaults.include
 0a309cf38b27d6a563512e78286acc42 boilerplate/web-bluetooth-cg/status.include
@@ -262,7 +258,7 @@ be1942c9d693736dae47af49e891c169 boilerplate/whatwg/computed-metadata-LS-PR.incl
 e1653db363926bcc088e493d844a14b6 boilerplate/whatwg/computed-metadata-RD.include
 326f36b0b7c2d45c7fa59f1fef1d5d7a boilerplate/whatwg/computed-metadata.include
 3cd6525ee6286d98765ba600eaa93105 boilerplate/whatwg/defaults-RD.include
-23729d998a3efed655aa552874e1610e boilerplate/whatwg/defaults.include
+95f898a48679ceb5c3ea335b3bd94aa8 boilerplate/whatwg/defaults.include
 91e2c82b59ff0dc7d3b10a72ed5d3b66 boilerplate/whatwg/footer-RD.include
 2fcfb92564e49aadf28892936a581e39 boilerplate/whatwg/footer.include
 42c5e780d22d1b3716ce33e636c6efd9 boilerplate/whatwg/header-RD.include
