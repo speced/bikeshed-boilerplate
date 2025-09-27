@@ -21,7 +21,7 @@
 
 
 <p include-if="FPWD">This document is a <b>First Public Working Draft</b>.</p>
-<p include-if="FPWD>
+<p include-if="FPWD">
     Publication as a First Public Working Draft does not imply endorsement
     by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members. This is a draft document and may be updated,
