@@ -39,13 +39,13 @@
 
 <p include-if="CRD">Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Draft integrates changes from the previous Candidate Recommendation that the Working Group intends to include in a subsequent Candidate Recommendation Snapshot.</p>
 
-<p include-if="CRD">The WebAssembly Working group intends to maintain this publication in the Candidate Recommendation state and continually update it as a "living standard" rather than transition to Recommendation state. In any case a REC transition will not be requested before [DEADLINE].</p>
+<p include-if="CRD">The WebAssembly Working group intends to maintain this publication in the Candidate Recommendation state and continually update it as a "living standard" rather than transition to Recommendation state. In any case a REC transition will not be requested before [DEADLINE?].</p>
   <!-- Missing: It must include a link to changes since the previous draft (e.g., a list of changes or a diff document or both; see the online HTML diff tool). -->
 <p include-if="CRD">This document is maintained and updated at any time. Some parts of this document are work in progress.</p>
 
 <p include-if="CR">Publication as a Candidate Recommendation does not imply endorsement by W3C and its Members. A Candidate Recommendation Snapshot has received <a href="https://www.w3.org/policies/process/20250818/#dfn-wide-review">wide review</a>, is intended to gather implementation experience, and has commitments from Working Group members to <a href="https://www.w3.org/policies/patent-policy/#sec-Requirements">royalty-free licensing</a> for implementations.</p>
 
-<p include-if="CR">The WebAssembly Working group intends to maintain this publication in the Candidate Recommendation state and continually update it as a "living standard" rather than transition to Recommendation state. In any case a REC transition will not be requested before [DEADLINE].</p>
+<p include-if="CR">The WebAssembly Working group intends to maintain this publication in the Candidate Recommendation state and continually update it as a "living standard" rather than transition to Recommendation state. In any case a REC transition will not be requested before [DEADLINE?].</p>
 
 
 <p>
