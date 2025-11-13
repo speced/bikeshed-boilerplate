@@ -63,6 +63,7 @@ org "bikeshed-2" {
 }
 
 status "DREAM" "A Collection of Interesting Ideas"
+status "DEV" "Edition for Web Developers"
 status "LS" "Living Standard"
 status "LS-COMMIT" "Commit Snapshot"
 status "LS-BRANCH" "Branch Snapshot"
