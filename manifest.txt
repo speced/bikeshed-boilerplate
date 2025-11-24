@@ -1,5 +1,5 @@
-2025-11-20 22:56:03.153921
-22cd218c70d68e84ca2758a5588a4f9f boilerplate/doctypes.kdl
+2025-11-24 16:46:01.247423
+36f7b41444775bbe3cdea7b81206b62f boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -20,7 +20,7 @@ aa6e1dfd438c5d0a33c21ee7d6b0403e boilerplate/warning-expired.include
 0cba8d93f154a1a5a8ba842dccd66531 boilerplate/warning-new-version.include
 e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 827bc45fbd969a9e197a5112337b9c5b boilerplate/ab/footer.include
-db3564aeec3d8b9086ecb1ac6469704e boilerplate/ab/status.include
+e4f868616913e87b5f349a5b2db63aea boilerplate/ab/status.include
 e95f28d3f0372906c1a26ea9ca9abb29 boilerplate/act-rules-format/copyright.include
 4d01d89867d158fc5f09f9edd8824611 boilerplate/act-rules-format/status.include
 5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
@@ -117,7 +117,7 @@ d77f9b0101a189e5b274ffbca49a31aa boilerplate/mediacapture/status-ED.include
 321f8d3d7dbd23c778a857efe89a2b4b boilerplate/mediacapture/status-FPWD.include
 cc699a8f47b65289ef0fdbe17b6e3cfe boilerplate/mediacapture/status-WD.include
 4b0839e35c1bbd636a170b44adbeff11 boilerplate/mediawg/defaults.include
-636286ec67280b8ad8630da7ec6ed258 boilerplate/mediawg/status.include
+bd395686f9ff823230df41da7b2677f4 boilerplate/mediawg/status.include
 38053bf6412fa2284da36febaf1b7eed boilerplate/patcg-id/copyright.include
 9f3b0455ff60beea0a59c94f7f51463b boilerplate/patcg-id/status.include
 34522ad1039a09dce4a36293a9c6c03e boilerplate/patwg/defaults.include
@@ -155,7 +155,7 @@ c21ff85d3454a4327ad5f81b70aa20d8 boilerplate/svg/defaults.include
 c34b8cd188e56925f2388f4c917cb70a boilerplate/tag/status-ED.include
 eaa90615dab93422595b96de65330507 boilerplate/tag/status-FINDING.include
 3ee2a9afa2371223ccc6e69b08977792 boilerplate/tag/status-NOTE-ED.include
-3fe64d48569ab45fd9c47234c2271a86 boilerplate/tag/status-NOTE-WD.include
+5fe662b9d89b41618f5bda2ece3168a3 boilerplate/tag/status-NOTE-WD.include
 f0c181f443a170f0ad99a56aa6a9546b boilerplate/tag/status-NOTE.include
 4988b649a61aa3b63d7a74c12e538fe9 boilerplate/tag/status-UD.include
 4988b649a61aa3b63d7a74c12e538fe9 boilerplate/tag/status.include
@@ -186,7 +186,7 @@ ba67a92d71a7541c593ce08a4aed9488 boilerplate/w3c/header.include
 45319aed0978981f81858381d50e03e7 boilerplate/w3t/header.include
 edbeccd56627e7bd74d26030ad0153ad boilerplate/wasm/abstract.include
 7cc36ce5dded7f5d27780b5e7ef877d2 boilerplate/wasm/defaults.include
-73f0fed0d1931a590f1532e8103f30e8 boilerplate/wasm/status.include
+995c777c92643ecfae458a8b151f92cb boilerplate/wasm/status.include
 29315650731cbe88fd849d6bfba753fd boilerplate/web-bluetooth-cg/copyright.include
 d15b6e87763b113bcc41809bb278a838 boilerplate/web-bluetooth-cg/defaults.include
 0a309cf38b27d6a563512e78286acc42 boilerplate/web-bluetooth-cg/status.include
