@@ -19,9 +19,9 @@
 <p include-if="NOTE-FPWD, NOTE-WD" data-deliverer="7756">
 	This document was published
 	by the <a href="https://www.w3.org/groups/other/ab/">Advisory Board</a>
-	as a Group Draft Note
+	as a Group Note Draft
 	using the <a href="https://www.w3.org/policies/process/20250818/#note-track">Note track</a>.
-	Group Draft Notes are not endorsed by W3C nor its Members.
+	Group Note Drafts are not endorsed by W3C nor its Members.
 	This is a draft document
 	and may be updated, replaced
 	or obsoleted by other documents at any time.

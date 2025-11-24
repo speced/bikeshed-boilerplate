@@ -56,7 +56,7 @@
 </p>
 
 <p include-if="DRY">
-  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Draft Registry using the <a href="https://www.w3.org/policies/process/20250818/#recs-and-notes">Registry track</a>.
+  This document was published by the <a href="https://www.w3.org/groups/wg/media/">Media Working Group</a> as a Registry Draft using the <a href="https://www.w3.org/policies/process/20250818/#recs-and-notes">Registry track</a>.
 </p>
 
 <p include-if="CRY">
@@ -93,7 +93,7 @@
 </p>
 
 <p include-if="DRY">
-  Publication as a Draft Registry does not imply endorsement by
+  Publication as a Registry Draft does not imply endorsement by
     <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
 </p>
 
