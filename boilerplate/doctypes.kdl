@@ -225,7 +225,7 @@ org "w3c" {
         requires "ED"
         group-types "wg" "ig" "tag" "ab"
     }
-    status "NOTE-WD" "W3C Group Draft Note" {
+    status "NOTE-WD" "W3C Group Note Draft" {
         requires "ED" "TR" "Issue Tracking" "Date"
         group-types "wg" "ig" "tag" "ab"
     }
@@ -237,7 +237,7 @@ org "w3c" {
         requires "TR" "Issue Tracking" "Date"
         group-types "wg" "ig" "tag" "ab"
     }
-    status "DRY" "W3C Draft Registry" {
+    status "DRY" "W3C Registry Draft" {
         requires "TR" "Date"
         group-types "wg"
     }
