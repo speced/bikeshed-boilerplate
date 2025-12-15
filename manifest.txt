@@ -1,4 +1,4 @@
-2025-12-05 16:12:43.543191
+2025-12-15 23:29:50.548142
 36f7b41444775bbe3cdea7b81206b62f boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
@@ -21,7 +21,7 @@ aa6e1dfd438c5d0a33c21ee7d6b0403e boilerplate/warning-expired.include
 e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 827bc45fbd969a9e197a5112337b9c5b boilerplate/ab/footer.include
 e4f868616913e87b5f349a5b2db63aea boilerplate/ab/status.include
-e95f28d3f0372906c1a26ea9ca9abb29 boilerplate/act-rules-format/copyright.include
+da84331da8b9c6201af6b6324410fc6a boilerplate/act-rules-format/copyright.include
 4d01d89867d158fc5f09f9edd8824611 boilerplate/act-rules-format/status.include
 5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
 9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults-FD.include
@@ -102,7 +102,7 @@ eed9c903714139fbb8a17393f81b603c boilerplate/html/status-WD.include
 2902bccf9782589f9b54ab055d802505 boilerplate/i18n/status-CR.include
 1632483bdd9cff727335a848daa4c646 boilerplate/i18n/status-ED.include
 ca3f066c4af8cf942e220535fc85eb76 boilerplate/i18n/status-FPWD.include
-b1f95f0d9b95acc8b950dce2d92f5fe9 boilerplate/i18n/status-WD.include
+923e878928878f9e99c3c412eaa32d49 boilerplate/i18n/status-WD.include
 88538ca11fec7184654be63801eb7014 boilerplate/i18n/warning-not-ready.include
 9f3b170e0e25bd5733d7a885127334a0 boilerplate/i18n/warning-obsolete.include
 b038c35d873a518d8d53f8024b2edfa8 boilerplate/immersivewebwg/defaults.include
