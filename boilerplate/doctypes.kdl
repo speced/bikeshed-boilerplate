@@ -280,6 +280,10 @@ org "w3c" {
     status "COUNCIL-REPORT" "Council Report" {
         group-types "council"
     }
+    status "DISC" "Discontinued Draft" {
+        group-types "ig" "wg" "tag" "ab"
+        requires "TR"
+    }
 }
 
 org "tc39" {
