@@ -1,5 +1,5 @@
-2025-12-16 16:36:28.007843
-36f7b41444775bbe3cdea7b81206b62f boilerplate/doctypes.kdl
+2026-01-30 19:08:45.630928
+1ee6eeb72a793e73bcb661227d843478 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -59,6 +59,7 @@ f578914f4fffa76a5855f8d314e88dd8 boilerplate/csswg/warning-not-ready.include
 4130ab38cd204954cda4e09ec65e6ec4 boilerplate/dap/defaults.include
 77c74a1d21566b2f6b4bee7a231701e8 boilerplate/dap/status-CR.include
 497a07a6415912f1ed52d11604dbabe0 boilerplate/dap/status-CRD.include
+2d32c0efc5aa386f2ec2408c78201819 boilerplate/dap/status-DISC.include
 d4133a529cd5177613e4abc641cbf434 boilerplate/dap/status-ED.include
 20904ab8f04defa118fba276d9bc2f40 boilerplate/dap/status-FPWD.include
 da0627f84b58d7060c81766033611a67 boilerplate/dap/status-NOTE.include
