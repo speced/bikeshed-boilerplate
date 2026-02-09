@@ -109,6 +109,7 @@ org "w3c" {
         requires "Work Status"
     }
     group "dap" type="wg" priv-sec=true
+    group "fdpcg" type="cg"
     group "fedid" type="wg" priv-sec=true
     group "fedidcg" type="cg"
     group "fxtf" type="wg" priv-sec=true
