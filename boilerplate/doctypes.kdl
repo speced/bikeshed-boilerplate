@@ -384,3 +384,19 @@ org "aom" {
     status "WGA" "AOM Working Group Approved Draft"
     status "FD" "AOM Final Deliverable"
 }
+
+org "ukltd" {
+  group "ukltd"
+
+  status "DA" "Approved by Company Directors"
+  status "SA" "Approved by Company Shareholders"
+  status "DP" "Proposal by Company Directors for Shareholder Approval"
+  status "HA" "Approved by Senior Staff or Department Head"
+  status "DDA" "Draft for Approval by Company Directors"
+  status "DSA" "Draft for Approval by Company Shareholders"
+  status "DDP" "Draft for Proposal by Company Directors for Shareholder Approval"
+  status "DHA" "Draft for Approval by Senior Staff or Department Head"
+  status "NO" "Notice"
+  status "DNO" "Draft Notice"
+  status "D" "Draft"
+}
