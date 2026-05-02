@@ -30,8 +30,11 @@
 </p>
 
 <p>
-  For this specification to exit the CR stage, at least 2 independent implementations of every feature defined in this specification 
-  need to be documented in the implementation report. 
+  For this specification to exit the CR stage, 
+  each normative feature is expected to meet the requirements set out in the 
+  <a href="https://www.w3.org/groups/wg/timed-text/charters/active/#advancement">charter of the Timed Text Working Group</a> 
+  to demonstrate adequate <a href="https://www.w3.org/policies/process/20250818/#implementation-experience">implementation experience</a>, 
+  and need to be documented in the implementation report. 
   The Working Group does not require that implementations are publicly available but encourages them to be so.
 </p>
 
