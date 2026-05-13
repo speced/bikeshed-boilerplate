@@ -1,5 +1,5 @@
-2026-01-30 19:08:45.630928
-1ee6eeb72a793e73bcb661227d843478 boilerplate/doctypes.kdl
+2026-05-13 19:12:24.518037
+4fa88d5a6e00d9bcdd85091dfd133daa boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -177,6 +177,12 @@ d41d8cd98f00b204e9800998ecf8427e boilerplate/test/logo.include
 5f612253c306b12e41cf0c8db315cc98 boilerplate/texttracks/header.include
 ad04e0dfeaa074aadf1032f8170ad4db boilerplate/texttracks/status-CG-DRAFT.include
 1f99f69bc3964c320233e48176c18a83 boilerplate/texttracks/status-WD.include
+21b80d8b20bed1cc67b941f72340b784 boilerplate/ttwg/defaults.include
+760cfb0a9361ec9377092f3715e66eb7 boilerplate/ttwg/status-CR.include
+83a6cef78e0daa9926c05995b7ac4301 boilerplate/ttwg/status-CRD.include
+b959fadbfa852b0de35c44ce001d968c boilerplate/ttwg/status-ED.include
+e4dd361656cbf82105082fd414f6f04b boilerplate/ttwg/status-FPWD.include
+236b65d152af1fb816a7c37442e9c95f boilerplate/ttwg/status-WD.include
 9b04889fb21700de002850b49cbff997 boilerplate/uievents/status-WD.include
 e310e191177e51fe1f39006802c4e4de boilerplate/w3c/copyright.include
 faa017e58f53faaf91c0e2200514986c boilerplate/w3c/defaults.include
