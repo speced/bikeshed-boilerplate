@@ -142,6 +142,7 @@ org "w3c" {
     group "svg" type="wg" priv-sec=true
     group "tag" type="tag"
     group "texttracks" type="cg" priv-sec=true
+    group "ttwg" type="cg" priv-sec=true
     group "uievents" type="wg" priv-sec=true
     group "w3t" type=null
     group "wasm" type="wg"
