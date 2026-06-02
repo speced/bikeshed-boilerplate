@@ -1,5 +1,5 @@
-2026-05-13 19:12:24.518037
-4fa88d5a6e00d9bcdd85091dfd133daa boilerplate/doctypes.kdl
+2026-06-02 19:45:24.729185
+d6d67366cd035b077a91f9e37372c943 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
 d8d0ca96965e06069f5745214f9b3f46 boilerplate/header.include
@@ -23,7 +23,7 @@ e695cdf0222c93dc2d9bedf402dade45 boilerplate/warning-replaced-by.include
 e4f868616913e87b5f349a5b2db63aea boilerplate/ab/status.include
 da84331da8b9c6201af6b6324410fc6a boilerplate/act-rules-format/copyright.include
 4d01d89867d158fc5f09f9edd8824611 boilerplate/act-rules-format/status.include
-5d42fe6f0a620673b80ccdff24842358 boilerplate/aom/copyright.include
+ad8f8bf8eaee4244d4eec3c1f346a924 boilerplate/aom/copyright.include
 9b87e46d166aa6442f039e08b1f50ad4 boilerplate/aom/defaults-FD.include
 42284ee6acfa29db163d51e6ed6868dd boilerplate/aom/defaults-PD.include
 9af7385e35d4f089d11909f34833eb65 boilerplate/aom/defaults-WGA.include
