@@ -1,0 +1,15 @@
+<div data-fill-with="index"></div>
+
+<div data-fill-with="property-index"></div>
+
+<div data-fill-with="idl-index"></div>
+
+<div data-fill-with="cddl-index"></div>
+
+<div data-fill-with="issues-index"></div>
+
+<div data-fill-with="references"></div>
+
+<!-- The copyright section must go at the end -->
+
+<div data-fill-with="copyright"></div>
