@@ -2,28 +2,30 @@
 
 This repo holds the boilerplate files (header, footer, other "constant" bits of specs) used by [Bikeshed](https://github.com/tabatkins/bikeshed).
 
-The top-level files in the `boilerplate/` folder are used by default,
-if there's nothing more specific.
+Bikeshed's "default" boilerplates are in `boilerplate-v1/default`.
+However, an [`Org`](https://speced.github.io/bikeshed/#metadata-org) can override these for every group in the org (by placing them in an `org-FOO` folder),
+and individual [`Group`s](https://speced.github.io/bikeshed/#metadata-group) in an org can further override them just for themselves (by placing them in a group folder inside the org's folder).
 
-The subfolders are for specific groups (the `Group` metadata in a Bikeshed file) to override the defaults with group-specific variants. In there, the filename may also have a status (the `Status` metadata in the Bikeshed file) to further specialize them.
+Within any of these folders, each boilerplate file can exist in a generic form `somename.include`
+or a [`Status`](https://speced.github.io/bikeshed/#metadata-status)-specific form `somename-STATUS.include` that is only used when the document is built with that particular status.
+
+Missing files at one level fall back to the higher level (status'd to generic, group to org to default).
 
 ## Altering Boilerplates
 
 If you need to change an existing boilerplate for your group,
 just send a PR.
+Make sure to let me know whether the PR is *finished* or you're *drafting* it.
 
 ## Adding or Removing Boilerplates
 
 If you need to add or remove files from an existing group's folder,
-send a PR.
-About a minute after it's merged,
-an automated "update the manifest" PR will show up
-and needs to be merged as well.
+just send a PR.
 
 If you're adding files for a new group,
 look for an existing group's files that generate specs that look similar to what you want.
-If you're a W3C group, start with the contents of the `boilerplates/w3c/` folder.
-Then update the `boilerplate/doctypes.kdl` file to document the new group.
+(For example, if you're a W3C group, start with the contents of the `boilerplate-v1/org-w3c/` folder.)
+Then update the `boilerplate-v1/doctypes.kdl` file to document the new group.
 
 ## Testing Boilerplates Before Adding Them Here
 
@@ -39,8 +41,8 @@ Install it locally from `pipx` and put the spec into a file.)
 ## When Are Boilerplates Available?
 
 After a boilerplate change has been merged,
-a PR will be automatically created with the appropriate changes to the manifest file.
-(This can be done manually by running `./update-manifest` in this folder).
+a PR will be automatically created with the appropriate changes to the `manifest-v1.kdl` file.
+(This can be done manually by running [`.github/workflows/manifest/manifest.py`](https://github.com/speced/bikeshed-boilerplate/tree/main/.github/workflows/manifest).)
 
 Once that PR is merged, a few minutes later the change will be picked up by [bikeshed-data](https://github.com/tabatkins/bikeshed-data)
 (check the commit log to see it),
