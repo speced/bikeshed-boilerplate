@@ -3,10 +3,10 @@ name: Lint doctypes.kdl
 on:
   push:
     paths:
-      - "boilerplate/doctypes.kdl"
+      - "boilerplate-v1/doctypes.kdl"
   pull_request:
     paths:
-      - "boilerplate/doctypes.kdl"
+      - "boilerplate-v1/doctypes.kdl"
   workflow_dispatch: {}
 
 jobs:
