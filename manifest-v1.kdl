@@ -1,5 +1,5 @@
-manifest updated=(date-time)"2026-06-30T08:30:19.245670+00:00" version=1 {
-	file hash="d6d67366cd035b077a91f9e37372c943" path="doctypes.kdl"
+manifest updated=(date-time)"2026-07-07T21:26:44.357927+00:00" version=1 {
+	file hash="315af61ed95db42fb491802c732ee038" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
 	file hash="5b76b0eef9af8a2300673e0553f609f9" path="default/computed-metadata.include"
@@ -255,6 +255,8 @@ manifest updated=(date-time)"2026-06-30T08:30:19.245670+00:00" version=1 {
 	file hash="df2a0633076bf6008938f9e474198817" path="org-w3c/webtransport/status-ED.include"
 	file hash="f93e84ad20d84fb206c68b5965212b95" path="org-w3c/webtransport/status-FPWD.include"
 	file hash="9dcc258ff7c79beefc30b55f2e9f7bbb" path="org-w3c/webtransport/status-WD.include"
+	file hash="5af5d406547f2bd6d5ca7626743ea01c" path="org-w3c/webviewcg/copyright.include"
+	file hash="59b8c6c26bf1ce6c838dab70a762ec8e" path="org-w3c/webviewcg/status.include"
 	file hash="a2554e31577e2dcb246424a2b7d5efa6" path="org-w3c/webvr/copyright.include"
 	file hash="7d9903c63ce8537f5d4e5edfdb446638" path="org-w3c/webvr/status.include"
 	file hash="b4e1e6f552fd08f65db485b6be584010" path="org-w3c/wecg/copyright.include"
