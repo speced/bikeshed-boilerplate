@@ -161,6 +161,7 @@ org "w3c" {
     group "webrtc" type="wg"
     group "webspecs" type="wg" priv-sec=true
     group "webtransport" type="wg"
+    group "webview" type="cg"
     group "webvr" type="wg"
     group "wecg" type="cg"
     group "wicg" type="cg"
