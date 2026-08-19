@@ -144,6 +144,7 @@ org "w3c" {
     group "texttracks" type="cg" priv-sec=true
     group "ttwg" type="cg" priv-sec=true
     group "uievents" type="wg" priv-sec=true
+    group "w3c-ccg" type="cg"
     group "w3t" type=null
     group "wasm" type="wg"
     group "web-bluetooth-cg" type="cg" priv-sec=true
