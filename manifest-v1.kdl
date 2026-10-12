@@ -1,4 +1,4 @@
-manifest updated=(date-time)"2026-08-19T15:22:48.386311+00:00" version=1 {
+manifest updated=(date-time)"2026-10-12T19:32:28.195393+00:00" version=1 {
 	file hash="c9da4e2fd242fb8880dacffb8c30ab7a" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
@@ -132,11 +132,15 @@ manifest updated=(date-time)"2026-08-19T15:22:48.386311+00:00" version=1 {
 	file hash="923e878928878f9e99c3c412eaa32d49" path="org-w3c/i18n/status-WD.include"
 	file hash="88538ca11fec7184654be63801eb7014" path="org-w3c/i18n/warning-not-ready.include"
 	file hash="9f3b170e0e25bd5733d7a885127334a0" path="org-w3c/i18n/warning-obsolete.include"
+	file hash="fe74e373a4720bf0d58911b5d027b1d2" path="org-w3c/immersivewebwg/defaults-CG-DRAFT.include"
 	file hash="b038c35d873a518d8d53f8024b2edfa8" path="org-w3c/immersivewebwg/defaults.include"
+	file hash="d98b8007540256a940607210b8eab6ce" path="org-w3c/immersivewebwg/status-CG-DRAFT.include"
 	file hash="9829d5b6945373e81e53c21cb04c194a" path="org-w3c/immersivewebwg/status-CR.include"
 	file hash="bc18317b4d184761fba67a9c5aeef5ce" path="org-w3c/immersivewebwg/status-CRD.include"
+	file hash="70407c56ed1ae15197ee452ac0840a2e" path="org-w3c/immersivewebwg/status-DNOTE.include"
 	file hash="233593b03faa446afc5ba97934c39224" path="org-w3c/immersivewebwg/status-ED.include"
 	file hash="c57a870ff605dd18736672b4834bfef6" path="org-w3c/immersivewebwg/status-FPWD.include"
+	file hash="424fa7d9856fdc7114565977989d0761" path="org-w3c/immersivewebwg/status-NOTE.include"
 	file hash="9b5be5625dff0d8c5341daa9726b31ae" path="org-w3c/immersivewebwg/status-WD.include"
 	file hash="5c94aa7852545130b50b0c8f74ab5b08" path="org-w3c/logo.include"
 	file hash="91bc173f1020f2ae558a92c0397a4791" path="org-w3c/mediacapture/defaults.include"
