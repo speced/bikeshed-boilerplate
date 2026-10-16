@@ -11,5 +11,6 @@
   ],
   "!Tests": "<a href='https://github.com/web-platform-tests/wpt/tree/master/[SHORTNAME]'>web-platform-tests [SHORTNAME]/</a> (<a href='https://github.com/web-platform-tests/wpt/labels/[SHORTNAME]'>ongoing work</a>)",
   "Warning": "obsolete",
+  "Repository": "whatwg/[SHORTNAME]",
   "Text Macro": "H1 [SPECTITLE] <small>(<a href='https://github.com/whatwg/[SHORTNAME]/commit/[COMMIT-SHA]'>Commit [COMMIT-SHA]</a>)</small>"
 }

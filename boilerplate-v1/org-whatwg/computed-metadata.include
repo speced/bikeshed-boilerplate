@@ -10,5 +10,6 @@
     "<a href='/commit-snapshots/[COMMIT-SHA]/' id=commit-snapshot-link>Snapshot as of this commit</a>"
   ],
   "!Tests": "<a href='https://github.com/web-platform-tests/wpt/tree/master/[SHORTNAME]'>web-platform-tests [SHORTNAME]/</a> (<a href='https://github.com/web-platform-tests/wpt/labels/[SHORTNAME]'>ongoing work</a>)",
+  "Repository": "whatwg/[SHORTNAME]",
   "Text Macro": "H1 [SPECTITLE]"
 }

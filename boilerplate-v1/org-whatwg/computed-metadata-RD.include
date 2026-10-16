@@ -1,5 +1,6 @@
 {
   "Title": "[SPECTITLE] Standard Review Draft [DATE-MMY]",
   "Logo": "https://resources.whatwg.org/logo-[SHORTNAME]-snapshot.svg",
+  "Repository": "whatwg/[SHORTNAME]",
   "Text Macro": "H1 [SPECTITLE]"
 }
