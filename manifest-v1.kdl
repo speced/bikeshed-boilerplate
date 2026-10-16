@@ -1,4 +1,4 @@
-manifest updated=(date-time)"2026-10-12T19:32:28.195393+00:00" version=1 {
+manifest updated=(date-time)"2026-10-16T20:07:29.014799+00:00" version=1 {
 	file hash="c9da4e2fd242fb8880dacffb8c30ab7a" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
@@ -272,10 +272,10 @@ manifest updated=(date-time)"2026-10-12T19:32:28.195393+00:00" version=1 {
 	file hash="f193a2dc8c4d09eec8ce7355a25d626e" path="org-w3c/wicg/status.include"
 	file hash="a9641ddf593bdf8156b0fa3e62a1262a" path="org-w3c/wintercg/copyright.include"
 	file hash="cc6009c9ce34dbc44afce7bba54575cc" path="org-w3c/wintercg/status.include"
-	file hash="32ead95d40d5da0782ae85d0e8c848d7" path="org-whatwg/computed-metadata-LS-COMMIT.include"
-	file hash="4beac6a291cf696db2feda97a57fdc2e" path="org-whatwg/computed-metadata-LS-PR.include"
-	file hash="e1653db363926bcc088e493d844a14b6" path="org-whatwg/computed-metadata-RD.include"
-	file hash="06a94cc4b310a1e4836bac571ed444e6" path="org-whatwg/computed-metadata.include"
+	file hash="3511de3b2978de36c6dfbcc0668b1d43" path="org-whatwg/computed-metadata-LS-COMMIT.include"
+	file hash="9cc2f36198f64f0d0fbb59286fc84d58" path="org-whatwg/computed-metadata-LS-PR.include"
+	file hash="419a2bc939494dea2ee406994841535c" path="org-whatwg/computed-metadata-RD.include"
+	file hash="b0f7fa850dcd9b6adf37f2cb9d7f2214" path="org-whatwg/computed-metadata.include"
 	file hash="3cd6525ee6286d98765ba600eaa93105" path="org-whatwg/defaults-RD.include"
 	file hash="95f898a48679ceb5c3ea335b3bd94aa8" path="org-whatwg/defaults.include"
 	file hash="91e2c82b59ff0dc7d3b10a72ed5d3b66" path="org-whatwg/footer-RD.include"
