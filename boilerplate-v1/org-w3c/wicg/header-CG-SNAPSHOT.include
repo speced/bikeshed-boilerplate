@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" data-cg-metadata="static">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>[TITLE]</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="cg-spec-type" content="snapshot">
+  <meta name="cg-spec-shortname" content="[SHORTNAME]">
+  <meta name="cg-spec-maturity" content="[CG-MATURITY]">
+</head>
+<body class="h-entry">
+<div data-fill-with="cg-header"></div>
+
+<div boilerplate="cg-incubator">
+  <dl class="grid">
+    <dt>Incubation by:</dt>
+    <dd><a href="https://www.w3.org/community/wicg/">Web Platform Incubator Community Group</a></dd>
+  </dl>
+</div>
+
+<div class="p-summary" data-fill-with="abstract"></div>
+<div data-fill-with="at-risk"></div>
+
+<h2 class='no-num no-toc no-ref' id='status'>Status of this document</h2>
+<div data-fill-with="status"></div>
+
+<nav data-fill-with="table-of-contents" id="toc"></nav>
+<main>
