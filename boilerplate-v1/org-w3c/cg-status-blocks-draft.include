@@ -1,0 +1,22 @@
+  <div class="box box--information">
+    <h2 class="no-num no-toc no-ref" id="cg-kind">This is a <a href="https://github.com/w3c/cg-program/blob/main/beta-2026/w3c-programs.md#living-specification-v-snapshot">living specification</a></h2>
+    <ul>
+      <li>The text of this specification and the status information support for this specification are expected to change in place at this address.</li>
+      <li data-cg-region="last-edited"><noscript><p class="cg-metadata-unavailable">The last-edited date is loaded from the status metadata, which needs JavaScript.</p></noscript></li>
+      <li>This is a W3C Community Group incubation and is not (yet) ready for standardization.</li>
+    </ul>
+  </div>
+
+  <div data-cg-region="progress"><noscript><p class="cg-metadata-unavailable">The progress towards standardization is loaded from the status metadata, which needs JavaScript.</p></noscript></div>
+
+  <div data-cg-region="browser-support"><noscript><p class="cg-metadata-unavailable">Browser support is loaded from the status metadata, which needs JavaScript.</p></noscript></div>
+
+  <div class="box box--information-alt">
+    <h2 class="no-num no-toc no-ref" id="cg-latest-updates">This document has the latest updates on this incubation</h2>
+    <ul>
+      <li data-cg-region="living-spec"><noscript><p class="cg-metadata-unavailable">The address of this specification and its last-edited date are loaded from the status metadata, which needs JavaScript.</p></noscript></li>
+      <li><a href="[CG-SNAPSHOTS-INDEX]">Snapshots of this specification</a></li>
+      <li><a href="#usage-guidance">Browser support details &amp; usage guidance</a></li>
+      <li><a href="#cg-get-involved">Get involved to support this incubation</a></li>
+    </ul>
+  </div>

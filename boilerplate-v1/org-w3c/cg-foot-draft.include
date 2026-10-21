@@ -1,0 +1,15 @@
+<section class="introductory">
+<h2 id="cg-get-involved">Get involved</h2>
+<p>There are many ways to support this W3C Community Group incubation.</p>
+<dl>
+  <dt id="cg-providing-feedback">Provide feedback and express support</dt>
+  <dd><a href="[REPOSITORYURL]">[REPOSITORY]</a></dd>
+  <dt id="cg-join-group">Join the group</dt>
+  <dd><a href="https://www.w3.org/community/">Learn about W3C Community Groups</a></dd>
+</dl>
+</section>
+<section class="box box--head introductory">
+<h2 id="usage-guidance">Usage guidance</h2>
+<div data-cg-region="usage-guidance"><noscript><p class="cg-metadata-unavailable">The usage guidance for this specification is loaded from the status metadata, which needs JavaScript.</p></noscript></div>
+<p class="copyright"><strong>Disclaimer:</strong> The data in these tables is managed outside the document and is updated automatically. While W3C strives to ensure the accuracy of status data, we do not guarantee that the information is error-free. Any mention of specific products or services is solely for informational purposes and does not imply endorsement by W3C, Inc. or its Members.</p>
+</section>

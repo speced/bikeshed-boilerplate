@@ -1,0 +1,31 @@
+<div class="box box--head">
+  <h1 id="title" class="p-name no-ref">[TITLE]</h1>
+
+  <div data-fill-with="cg-incubator"></div>
+
+  <div class="box box--information">
+    <h2 class="no-num no-toc no-ref" id="cg-snapshot-notice">This is a <a href="https://github.com/w3c/cg-program/blob/main/beta-2026/w3c-programs.md#living-specification-v-snapshot">snapshot</a> of an incubation</h2>
+    <ul>
+      <li><strong>This document instance is archival and is not intended to change.</strong></li>
+      <li>It was published on <time class="dt-updated" datetime="[ISODATE]">[DATE]</time>.</li>
+      <li>The address of this snapshot is <a href="[CG-SNAPSHOT-ADDRESS]">[CG-SNAPSHOT-ADDRESS]</a>.</li>
+    </ul>
+  </div>
+
+  <div class="box box--information-alt">
+    <h2 class="no-num no-toc no-ref" id="cg-latest-updates">Visit the living specification for the latest updates on this incubation</h2>
+    <ul>
+      <li data-cg-region="living-spec"><noscript><p class="cg-metadata-unavailable">The address of the living specification and its last-edited date are loaded from the status metadata, which needs JavaScript.</p></noscript></li>
+      <li><a href="[CG-SNAPSHOTS-INDEX]">Snapshots of this specification</a></li>
+    </ul>
+  </div>
+
+  <div data-fill-with="spec-metadata"></div>
+  <div data-fill-with="warning"></div>
+  <p class="copyright">
+    <a href="https://www.w3.org/policies/#copyright">Copyright</a> &copy; [YEAR] the Contributors to the
+    [TITLE] Specification, published under the
+    <a href="https://www.w3.org/community/about/agreements/fsa/">W3C Community Final Specification Agreement (FSA)</a>.
+    A human-readable <a href="https://www.w3.org/community/about/agreements/fsa-deed/">summary</a> is available.
+  </p>
+</div>
