@@ -273,6 +273,14 @@ org "w3c" {
         requires "Level" "ED" "TR" "Issue Tracking"
         group-types "cg"
     }
+    status "CG-LIVING" "Community Group Living Specification" {
+        requires "Level" "ED"
+        group-types "cg"
+    }
+    status "CG-SNAPSHOT" "Community Group Snapshot" {
+        requires "Level" "ED"
+        group-types "cg"
+    }
     status "DRAFT-FINDING" "Draft Finding" {
         requires "ED"
         group-types "tag"
