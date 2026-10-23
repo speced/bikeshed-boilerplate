@@ -1,4 +1,4 @@
-  <div class="box box--information">
+  <div class="box box--information" id="top-status-block">
     <h2 class="no-num no-toc no-ref" id="cg-kind">This is a <a href="https://github.com/w3c/cg-program/blob/main/beta-2026/w3c-programs.md#living-specification-v-snapshot">living specification</a></h2>
     <ul>
       <li>The text of this specification and the status information support for this specification are expected to change in place at this address.</li>

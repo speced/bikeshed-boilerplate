@@ -3,7 +3,7 @@
 
   <div data-fill-with="cg-incubator"></div>
 
-  <div class="box box--information">
+  <div class="box box--information" id="top-status-block">
     <h2 class="no-num no-toc no-ref" id="cg-snapshot-notice">This is a <a href="https://github.com/w3c/cg-program/blob/main/beta-2026/w3c-programs.md#living-specification-v-snapshot">snapshot</a> of an incubation</h2>
     <ul>
       <li><strong>This document instance is archival and is not intended to change.</strong></li>

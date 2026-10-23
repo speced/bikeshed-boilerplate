@@ -1,4 +1,4 @@
-  <div class="box box--information">
+  <div class="box box--information" id="top-status-block">
     <h2 class="no-num no-toc no-ref" id="cg-kind">This specification has been <a href="https://github.com/w3c/cg-program/blob/main/proposals/spec-lifecycle.md#maturity-stages">transferred</a></h2>
     <ul>
       <li><strong>Rather than use or reference this specification, please consult the guidance of the organization to which the specification has been transferred.</strong></li>
