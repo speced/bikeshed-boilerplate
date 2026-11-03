@@ -1,4 +1,4 @@
-manifest updated=(date-time)"2026-10-16T20:07:29.014799+00:00" version=1 {
+manifest updated=(date-time)"2026-11-03T21:55:27.274221+00:00" version=1 {
 	file hash="c9da4e2fd242fb8880dacffb8c30ab7a" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
@@ -73,7 +73,7 @@ manifest updated=(date-time)"2026-10-16T20:07:29.014799+00:00" version=1 {
 	file hash="3feead45e1c1e892a14173747c597ef8" path="org-w3c/csswg/computed-metadata.include"
 	file hash="635c8a783e1b1b4831f92078c1d98a82" path="org-w3c/csswg/copyright-DREAM.include"
 	file hash="3fcf1f7845c6a23ca945198f4efe124d" path="org-w3c/csswg/defaults-ED.include"
-	file hash="9845a6e4ec2393016fa82371d72f0cb7" path="org-w3c/csswg/defaults.include"
+	file hash="fae62d2a23e0276ba9712da26f4ffc34" path="org-w3c/csswg/defaults.include"
 	file hash="0dcef32ad657a8b0a37872a05746b3a6" path="org-w3c/csswg/footer.include"
 	file hash="41fafeaa32ce7a15d254ae8bf376277f" path="org-w3c/csswg/status.include"
 	file hash="f578914f4fffa76a5855f8d314e88dd8" path="org-w3c/csswg/warning-not-ready.include"
