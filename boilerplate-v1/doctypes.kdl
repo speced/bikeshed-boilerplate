@@ -153,6 +153,7 @@ org "w3c" {
     group "webappsec" type="wg" priv-sec=true
     group "webauthn" type="wg"
     group "webediting" type="wg"
+    group "webextensions" type="wg"
     group "webfontswg" type="wg" priv-sec=true
     group "webgpu" type="cg"
     group "webml" type="cg"
