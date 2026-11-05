@@ -1,5 +1,5 @@
-manifest updated=(date-time)"2026-11-03T21:55:27.274221+00:00" version=1 {
-	file hash="c9da4e2fd242fb8880dacffb8c30ab7a" path="doctypes.kdl"
+manifest updated=(date-time)"2026-11-05T18:46:19.063437+00:00" version=1 {
+	file hash="04b58cef24b3732c198d24d418055781" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
 	file hash="5b76b0eef9af8a2300673e0553f609f9" path="default/computed-metadata.include"
@@ -228,6 +228,8 @@ manifest updated=(date-time)"2026-11-03T21:55:27.274221+00:00" version=1 {
 	file hash="75730ec3577f83d409ac16a79eba0c18" path="org-w3c/webauthn/status-WD.include"
 	file hash="89918a4a1e42008d2e1bef6dcdc17af6" path="org-w3c/webediting/defaults.include"
 	file hash="50dc6cfafdac642c3116879aaddb80e5" path="org-w3c/webediting/status.include"
+	file hash="52cc84d377c7b1da04400a43e041e4fb" path="org-w3c/webextensions/defaults.include"
+	file hash="e377afacf400d979065e3401a942f086" path="org-w3c/webextensions/status.include"
 	file hash="8747e8de2bd698b392b42212609013f5" path="org-w3c/webfontswg/defaults.include"
 	file hash="862e6318c83f3fc4e3c9de5cbea7bce9" path="org-w3c/webfontswg/header-ED.include"
 	file hash="2418f392ec91da344f8915793d9459f0" path="org-w3c/webfontswg/status-CR.include"
