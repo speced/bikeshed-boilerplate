@@ -1,4 +1,4 @@
-manifest updated=(date-time)"2026-11-05T18:46:19.063437+00:00" version=1 {
+manifest updated=(date-time)"2026-11-10T21:13:25.707174+00:00" version=1 {
 	file hash="04b58cef24b3732c198d24d418055781" path="doctypes.kdl"
 	file hash="36bd888ea0d70381a0d8819f64556e00" path="default/abstract.include"
 	file hash="2d047e9fbf42b426e281e368cce03989" path="default/bs-extensions.include"
@@ -153,7 +153,7 @@ manifest updated=(date-time)"2026-11-05T18:46:19.063437+00:00" version=1 {
 	file hash="38053bf6412fa2284da36febaf1b7eed" path="org-w3c/patcg-id/copyright.include"
 	file hash="9f3b0455ff60beea0a59c94f7f51463b" path="org-w3c/patcg-id/status.include"
 	file hash="34522ad1039a09dce4a36293a9c6c03e" path="org-w3c/patwg/defaults.include"
-	file hash="3fe199fdcdd85c972802b38f15067a2a" path="org-w3c/patwg/status.include"
+	file hash="a2511f1eb8f6dd2a40d74b70cf6445ab" path="org-w3c/patwg/status.include"
 	file hash="34863bf2c266566961b90f6ca6b927c3" path="org-w3c/ping/defaults.include"
 	file hash="6802b25bcebff6651d27abd248e4436f" path="org-w3c/ping/status-ED.include"
 	file hash="60032c3755741a33d8d546b2eee2359b" path="org-w3c/privacycg/copyright.include"
