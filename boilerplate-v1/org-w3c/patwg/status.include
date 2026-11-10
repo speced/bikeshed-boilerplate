@@ -6,7 +6,7 @@
 
 <p>
   Feedback and comments on this specification are welcome.
-  <a href="[REPOSITORYURL]/issues">GitHub Issues</a> are preferred for discussion on this specification. Alternatively, you can send comments to the PAT Working Group's mailing-list, <a href="public-patwg@w3.org">public-patwg@w3.org</a> (<a href="https://lists.w3.org/Archives/Public/public-patwg/">archives</a>).
+  <a href="[REPOSITORYURL]/issues">GitHub Issues</a> are preferred for discussion on this specification. Alternatively, you can send comments to the PAT Working Group's mailing-list, <a href="mailto:public-patwg@w3.org">public-patwg@w3.org</a> (<a href="https://lists.w3.org/Archives/Public/public-patwg/">archives</a>).
   <if-wrapper exclude-if="CR">This draft highlights some of the pending issues that are still to be discussed in the working group.
   No decision has been taken on the outcome of these issues including whether they are valid.</if-wrapper>
 </p>
