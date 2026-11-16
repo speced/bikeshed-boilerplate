@@ -22,7 +22,7 @@
     It is inappropriate to cite this document as other than a work in progress.
         </p>
 <p>
-  The entrance criteria for this document to enter the Proposed Recommendation stage
+  The exit criteria for this document from the Candidate Recommendation stage
   is to have a minimum of two independent and interoperable user agents that
   implementation all the features of this specification, which will be determined by
   passing the user agent tests defined in the test suite developed by the Working
