@@ -1,0 +1,23 @@
+<section class="introductory">
+<h2 class="no-num no-ref" id="cg-get-involved">Get involved</h2>
+<p>There are many ways to support this W3C Community Group incubation.</p>
+<dl>
+  <dt id="cg-providing-feedback">Provide feedback and express support</dt>
+  <dd><a href="[REPOSITORYURL]">[REPOSITORY]</a></dd>
+  <dt id="cg-join-group">Join the group</dt>
+  <dd><a href="https://www.w3.org/community/">Learn about W3C Community Groups</a></dd>
+</dl>
+</section>
+<section class="box box--head introductory">
+<h2 class="no-num no-ref" id="usage-guidance">Usage guidance</h2>
+<div class="box box--information">
+  <h3 class="no-num no-toc no-ref" id="cg-guidance-notice">This is a snapshot</h3>
+  <ul>
+    <li><strong>This document instance is archival and is not intended to change.</strong></li>
+    <li>It was published on <time class="dt-updated" datetime="[ISODATE]">[DATE]</time>.</li>
+    <li>The address of this snapshot is <a href="[CG-SNAPSHOT-ADDRESS]">[CG-SNAPSHOT-ADDRESS]</a>.</li>
+    <li>Updated usage guidance is in the latest version.</li>
+    <li data-cg-region="living-spec"><noscript><p class="cg-metadata-unavailable">The address of the living specification and its last-edited date are loaded from the status metadata, which needs JavaScript.</p></noscript></li>
+  </ul>
+</div>
+</section>

@@ -1,0 +1,10 @@
+<section class="box box--head introductory">
+<h2 class="no-num no-ref" id="usage-guidance">Usage guidance</h2>
+<div class="box box--warning">
+  <h3 class="no-num no-toc no-ref" id="cg-guidance-notice">This specification is no longer in development and is unmaintained</h3>
+  <ul>
+    <li><strong>Do not use or reference.</strong></li>
+    <li>If these circumstances change in the future, we will review our guidance.</li>
+  </ul>
+</div>
+</section>
