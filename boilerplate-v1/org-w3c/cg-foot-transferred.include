@@ -1,5 +1,5 @@
 <section class="introductory">
-<h2 id="cg-get-involved">Get involved</h2>
+<h2 class="no-num no-ref" id="cg-get-involved">Get involved</h2>
 <p>There are many ways to support this W3C Community Group incubation.</p>
 <dl>
   <dt id="cg-providing-feedback">Provide feedback and express support</dt>
@@ -7,4 +7,14 @@
   <dt id="cg-join-group">Join the group</dt>
   <dd><a href="https://www.w3.org/community/">Learn about W3C Community Groups</a></dd>
 </dl>
+</section>
+<section class="box box--head introductory">
+<h2 class="no-num no-ref" id="usage-guidance">Usage guidance</h2>
+<div class="box box--information">
+  <h3 class="no-num no-toc no-ref" id="cg-guidance-notice">This specification has been transferred</h3>
+  <ul>
+    <li><strong>Rather than use or reference this specification, please consult the guidance of the organization to which the specification has been transferred.</strong></li>
+    <li>[CG-TRANSFERRED-TO] has taken up the work for standardization and so the W3C Community Group is no longer the &ldquo;owner&rdquo;.</li>
+  </ul>
+</div>
 </section>

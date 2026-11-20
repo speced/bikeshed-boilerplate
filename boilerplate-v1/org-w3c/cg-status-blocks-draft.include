@@ -3,7 +3,7 @@
     <ul>
       <li>The text of this specification and the status information support for this specification are expected to change in place at this address.</li>
       <li data-cg-region="last-edited"><noscript><p class="cg-metadata-unavailable">The last-edited date is loaded from the status metadata, which needs JavaScript.</p></noscript></li>
-      <li>This is a W3C Community Group incubation and is not (yet) ready for standardization.</li>
+      <li>This is a Community Group incubation and is not (yet) ready for standardization. This specification is not endorsed by W3C.</li>
     </ul>
   </div>
 
@@ -16,7 +16,6 @@
     <ul>
       <li data-cg-region="living-spec"><noscript><p class="cg-metadata-unavailable">The address of this specification and its last-edited date are loaded from the status metadata, which needs JavaScript.</p></noscript></li>
       <li><a href="[CG-SNAPSHOTS-INDEX]">Snapshots of this specification</a></li>
-      <li><a href="#usage-guidance">Browser support details &amp; usage guidance</a></li>
       <li><a href="#cg-get-involved">Get involved to support this incubation</a></li>
     </ul>
   </div>

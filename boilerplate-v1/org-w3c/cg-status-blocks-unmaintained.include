@@ -2,6 +2,7 @@
     <h2 class="no-num no-toc no-ref" id="cg-kind">This specification is no longer in development and is <a href="https://github.com/w3c/cg-program/blob/main/proposals/spec-lifecycle.md#maturity-stages">unmaintained</a></h2>
     <ul>
       <li><strong>Do not use or reference.</strong></li>
+      <li>This specification is not endorsed by W3C.</li>
       <li>If these circumstances change in the future, we will review our guidance.</li>
     </ul>
   </div>
